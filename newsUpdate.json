@@ -1,0 +1,32 @@
+[
+    {
+        "Index": 1,
+        "DateReg": "2023-03-15",
+        "Name": "Update",
+        "Location": "Macau",
+        "DetailsC": "3.0版本已推出!請更新!",
+        "DetailsP": "Versão 3.0 pronto! Actualize!",
+        "DetailsI": "Version 3.0 available! Please Update!",
+        "links": "https://apps.apple.com/hk/app/ptt-praestituta/id1601096451?l=en"
+    },
+    {
+        "Index": 2,
+        "DateReg": "2023-03-05",
+        "Name": "CTT",
+        "Location": "Macau",
+        "DetailsC": "鑑於澳門郵電局服務更改,於二零二三年一月一日起星期六將不立入計算內,反而該日期前星期六立入計算將維持不變.\n加入臉書群組告訴我們您的想法!",
+        "DetailsP": "Devido à alteração de serviços de correios, dias de semana de sábado posteriores a 01/01/2023 serão excluidos dos cálculos como dia efectiva de distribuição de correspondência, porém, mantendo a inclusão de sábados efectivos de correspondência nos cálculos anteriores daquela data.",
+        "DetailsI": "",
+        "links": "https://www.ctt.gov.mo/MacauPost/Contents/News.aspx?pm=3596"
+    },
+    {
+        "Index": 3,
+        "DateReg": "2023-03-05",
+        "Name": "Facebook Group",
+        "Location": "Macau",
+        "DetailsC": "加入臉書群組告訴我們您的想法!",
+        "DetailsP": "Junte-se ao nosso grupo de facebook e diga-nos o que pensa!",
+        "DetailsI": "https://www.facebook.com/groups/475346467301823/",
+        "links": "https://www.facebook.com/groups/475346467301823/"
+    }
+]
