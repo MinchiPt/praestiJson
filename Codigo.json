@@ -1,0 +1,22 @@
+[
+    {
+        "Index": 1,
+        "CodigoC": "民事訴訟法典",
+        "CodigoP": "Código do Processo Civil",
+        "CodigoJsonC": "http://minchi.hopto.org/json/CPC_chn.json",
+        "CodigoJsonP": "http://minchi.hopto.org/json/CPC.json",
+        "DBNameC": "cpc_chn.db3",
+        "DBNameP": "cpc_prt.db3",
+        "Version": 1
+    },
+    {
+        "Index": 2,
+        "CodigoC": "刑事訴訟法典",
+        "CodigoP": "Código do Processo Penal",
+        "CodigoJsonC": "http://minchi.hopto.org/json/CPP_chn.json",
+        "CodigoJsonP": "http://minchi.hopto.org/json/CPP_prt.json",
+        "DBNameC": "cpp_chn.db3",
+        "DBNameP": "cpp_prt.db3",
+        "Version": 1
+    }
+]
