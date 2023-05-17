@@ -4,7 +4,9 @@
         "CodigoC": "民事訴訟法典",
         "CodigoP": "Código do Processo Civil",
         "CodigoJsonC": "http://minchi.hopto.org/json/CPC_chn.json",
-        "CodigoJsonP": "http://minchi.hopto.org/json/CPC.json",
+        "CodigoJsonP": "http://minchi.hopto.org/json/CPC_prt.json",
+        "CodigoJsonC2": "https://minchipt.github.io/praestiJson/CPC_chn.json",
+        "CodigoJsonP2": "https://minchipt.github.io/praestiJson/CPC_pot.json",
         "DBNameC": "cpc_chn.db3",
         "DBNameP": "cpc_prt.db3",
         "Version": 1
@@ -15,6 +17,8 @@
         "CodigoP": "Código do Processo Penal",
         "CodigoJsonC": "http://minchi.hopto.org/json/CPP_chn.json",
         "CodigoJsonP": "http://minchi.hopto.org/json/CPP_prt.json",
+        "CodigoJsonC2": "https://minchipt.github.io/praestiJson/CPP_chn.json",
+        "CodigoJsonP2": "https://minchipt.github.io/praestiJson/CPP_prt.json",
         "DBNameC": "cpp_chn.db3",
         "DBNameP": "cpp_prt.db3",
         "Version": 1
