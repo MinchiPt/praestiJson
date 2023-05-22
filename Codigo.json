@@ -1,26 +1,34 @@
 [
     {
         "Index": 1,
-        "CodigoC": "民事訴訟法典",
-        "CodigoP": "Código do Processo Civil",
-        "CodigoJsonC": "http://minchi.hopto.org/json/CPC_chn.json",
-        "CodigoJsonP": "http://minchi.hopto.org/json/CPC_prt.json",
-        "CodigoJsonC2": "https://minchipt.github.io/praestiJson/CPC_chn.json",
-        "CodigoJsonP2": "https://minchipt.github.io/praestiJson/CPC_pot.json",
-        "DBNameC": "cpc_chn.db3",
-        "DBNameP": "cpc_prt.db3",
+        "Codigo": "民事訴訟法典",
+        "CodigoJson": "http://minchi.hopto.org/json/CPC_chn.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/CPC_chn.json",
+        "DBName": "cpc_chn.db3",
         "Version": 1
     },
     {
         "Index": 2,
-        "CodigoC": "刑事訴訟法典",
-        "CodigoP": "Código do Processo Penal",
-        "CodigoJsonC": "http://minchi.hopto.org/json/CPP_chn.json",
-        "CodigoJsonP": "http://minchi.hopto.org/json/CPP_prt.json",
-        "CodigoJsonC2": "https://minchipt.github.io/praestiJson/CPP_chn.json",
-        "CodigoJsonP2": "https://minchipt.github.io/praestiJson/CPP_prt.json",
-        "DBNameC": "cpp_chn.db3",
-        "DBNameP": "cpp_prt.db3",
+        "Codigo": "Código do Processo Civil",
+        "CodigoJson": "http://minchi.hopto.org/json/CPC_prt.json",
+        "CodigoJsonP2": "https://minchipt.github.io/praestiJson/CPC_pot.json",
+        "DBName": "cpc_prt.db3",
+        "Version": 1
+    },
+    {
+        "Index": 3,
+        "Codigo": "刑事訴訟法典",
+        "CodigoJson": "http://minchi.hopto.org/json/CPP_chn.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/CPP_chn.json",
+        "DBName": "cpp_chn.db3",
+        "Version": 1
+    },
+    {
+        "Index": 4,
+        "Codigo": "Código do Processo Penal",
+        "CodigoJson": "http://minchi.hopto.org/json/CPP_prt.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/CPP_prt.json",
+        "DBName": "cpp_prt.db3",
         "Version": 1
     }
 ]
