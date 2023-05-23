@@ -11,7 +11,7 @@
         "Index": 2,
         "CodigoName": "Código do Processo Civil",
         "CodigoJson": "http://minchi.hopto.org/json/CPC_prt.json",
-        "CodigoJsonP2": "https://minchipt.github.io/praestiJson/CPC_pot.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/CPC_pot.json",
         "DBName": "cpc_prt.db3",
         "Version": 1
     },
