@@ -1,7 +1,7 @@
 [
     {
         "Index": 1,
-        "Codigo": "民事訴訟法典",
+        "CodigoName": "民事訴訟法典",
         "CodigoJson": "http://minchi.hopto.org/json/CPC_chn.json",
         "CodigoJson2": "https://minchipt.github.io/praestiJson/CPC_chn.json",
         "DBName": "cpc_chn.db3",
@@ -9,7 +9,7 @@
     },
     {
         "Index": 2,
-        "Codigo": "Código do Processo Civil",
+        "CodigoName": "Código do Processo Civil",
         "CodigoJson": "http://minchi.hopto.org/json/CPC_prt.json",
         "CodigoJsonP2": "https://minchipt.github.io/praestiJson/CPC_pot.json",
         "DBName": "cpc_prt.db3",
@@ -17,7 +17,7 @@
     },
     {
         "Index": 3,
-        "Codigo": "刑事訴訟法典",
+        "CodigoName": "刑事訴訟法典",
         "CodigoJson": "http://minchi.hopto.org/json/CPP_chn.json",
         "CodigoJson2": "https://minchipt.github.io/praestiJson/CPP_chn.json",
         "DBName": "cpp_chn.db3",
@@ -25,7 +25,7 @@
     },
     {
         "Index": 4,
-        "Codigo": "Código do Processo Penal",
+        "CodigoName": "Código do Processo Penal",
         "CodigoJson": "http://minchi.hopto.org/json/CPP_prt.json",
         "CodigoJson2": "https://minchipt.github.io/praestiJson/CPP_prt.json",
         "DBName": "cpp_prt.db3",
