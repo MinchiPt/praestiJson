@@ -1,0 +1,1754 @@
+[
+    {
+        "Artigo": "Artigo 1.\u00ba",
+        "Ementa": "(Defini\u00e7\u00e3o)",
+        "Numero": [
+            "1. Entende-se por procedimento administrativo a sucess\u00e3o ordenada de actos e formalidades tendentes \u00e0 forma\u00e7\u00e3o e manifesta\u00e7\u00e3o da vontade da Administra\u00e7\u00e3o P\u00fablica, ou \u00e0 sua execu\u00e7\u00e3o.",
+            "2. Entende-se por processo administrativo o conjunto de documentos em que se traduzem os actos e formalidades que integram o procedimento administrativo."
+        ],
+        "Titulo": "PARTE I Princ\u00edpios gerais CAP\u00cdTULO I Disposi\u00e7\u00f5es preliminares"
+    },
+    {
+        "Artigo": "Artigo 2.\u00ba",
+        "Ementa": "(\u00c2mbito de aplica\u00e7\u00e3o)",
+        "Numero": [
+            "1. As disposi\u00e7\u00f5es deste C\u00f3digo aplicam-se a todos os \u00f3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica que, no desempenho da actividade administrativa de gest\u00e3o p\u00fablica, estabele\u00e7am rela\u00e7\u00f5es com os particulares, bem como aos actos em mat\u00e9ria administrativa praticados pelos \u00f3rg\u00e3os do Territ\u00f3rio que, embora n\u00e3o integrados na Administra\u00e7\u00e3o P\u00fablica, desenvolvam fun\u00e7\u00f5es materialmente administrativas.",
+            "2. As disposi\u00e7\u00f5es deste C\u00f3digo s\u00e3o ainda aplic\u00e1veis aos actos praticados por entidades concession\u00e1rias no exerc\u00edcio de poderes de autoridade.",
+            "3. Os preceitos deste C\u00f3digo podem ser mandados aplicar por lei \u00e0 actua\u00e7\u00e3o dos \u00f3rg\u00e3os das institui\u00e7\u00f5es particulares de interesse p\u00fablico.",
+            "4. Os princ\u00edpios gerais da actividade administrativa definidos no presente C\u00f3digo s\u00e3o aplic\u00e1veis a toda a actua\u00e7\u00e3o da Administra\u00e7\u00e3o, ainda que meramente t\u00e9cnica ou de gest\u00e3o privada.",
+            "5. As disposi\u00e7\u00f5es deste C\u00f3digo relativas \u00e0 organiza\u00e7\u00e3o e \u00e0 actividade administrativas s\u00e3o aplic\u00e1veis a todas as actua\u00e7\u00f5es da Administra\u00e7\u00e3o no dom\u00ednio da gest\u00e3o p\u00fablica.",
+            "6. As disposi\u00e7\u00f5es do presente C\u00f3digo s\u00e3o ainda supletivamente aplic\u00e1veis a procedimentos especiais, desde que n\u00e3o envolvam diminui\u00e7\u00e3o das garantias dos particulares."
+        ],
+        "Titulo": "PARTE I Princ\u00edpios gerais CAP\u00cdTULO I Disposi\u00e7\u00f5es preliminares"
+    },
+    {
+        "Artigo": "Artigo 3.\u00ba",
+        "Ementa": "(Princ\u00edpio da legalidade)",
+        "Numero": [
+            "1. Os \u00f3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica devem actuar em obedi\u00eancia \u00e0 lei e ao direito, dentro dos limites dos poderes que lhes estejam atribu\u00eddos e em conformidade com os fins para que os mesmos poderes lhes forem conferidos.",
+            "2. Os actos administrativos praticados em estado de necessidade, com preteri\u00e7\u00e3o das regras estabelecidas neste C\u00f3digo, s\u00e3o v\u00e1lidos, desde que os seus resultados n\u00e3o pudessem ter sido alcan\u00e7ados de outro modo, mas os lesados t\u00eam o direito de ser indemnizados nos termos gerais da responsabilidade da Administra\u00e7\u00e3o."
+        ],
+        "Titulo": "PARTE I Princ\u00edpios gerais CAP\u00cdTULO II Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 4.\u00ba",
+        "Ementa": "(Princ\u00edpio da prossecu\u00e7\u00e3o do interesse p\u00fablico e da protec\u00e7\u00e3o dos direitos e interesses dos residentes)",
+        "Numero": [
+            "Compete aos \u00f3rg\u00e3os administrativos prosseguir o interesse p\u00fablico, no respeito pelos direitos e interesses legalmente protegidos dos residentes."
+        ],
+        "Titulo": "PARTE I Princ\u00edpios gerais CAP\u00cdTULO II Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 5.\u00ba",
+        "Ementa": "(Princ\u00edpio da igualdade e da proporcionalidade)",
+        "Numero": [
+            "1. Nas suas rela\u00e7\u00f5es com os particulares, a Administra\u00e7\u00e3o P\u00fablica deve reger-se pelo princ\u00edpio da igualdade, n\u00e3o podendo privilegiar, beneficiar, prejudicar, privar de qualquer direito ou isentar de qualquer dever nenhum administrado em raz\u00e3o de ascend\u00eancia, sexo, ra\u00e7a, l\u00edngua, territ\u00f3rio de origem, religi\u00e3o, convic\u00e7\u00f5es pol\u00edticas ou ideol\u00f3gicas, instru\u00e7\u00e3o, situa\u00e7\u00e3o econ\u00f3mica ou condi\u00e7\u00e3o social.",
+            "2. As decis\u00f5es da Administra\u00e7\u00e3o que colidam com direitos subjectivos ou interesses legalmente protegidos dos particulares s\u00f3 podem afectar essas posi\u00e7\u00f5es em termos adequados e proporcionais aos objectivos a realizar."
+        ],
+        "Titulo": "PARTE I Princ\u00edpios gerais CAP\u00cdTULO II Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 6.\u00ba",
+        "Ementa": "(Princ\u00edpio da utiliza\u00e7\u00e3o das l\u00ednguas oficiais)",
+        "Numero": [
+            "As l\u00ednguas oficiais de Macau ser\u00e3o utilizadas pelos \u00f3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica, no exerc\u00edcio da sua actividade."
+        ],
+        "Titulo": "PARTE I Princ\u00edpios gerais CAP\u00cdTULO II Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 7.\u00ba",
+        "Ementa": "(Princ\u00edpio da justi\u00e7a e da imparcialidade)",
+        "Numero": [
+            "No exerc\u00edcio da sua actividade, a Administra\u00e7\u00e3o P\u00fablica deve tratar de forma justa e imparcial todos os que com ela entrem em rela\u00e7\u00e3o."
+        ],
+        "Titulo": "PARTE I Princ\u00edpios gerais CAP\u00cdTULO II Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 8.\u00ba",
+        "Ementa": "(Princ\u00edpio da boa f\u00e9)",
+        "Numero": [
+            "1. No exerc\u00edcio da actividade administrativa, e em todas as suas formas e fases, a Administra\u00e7\u00e3o P\u00fablica e os particulares devem agir e relacionar-se segundo as regras da boa f\u00e9.",
+            "2. No cumprimento do disposto no n\u00famero anterior, devem ponderar-se os valores fundamentais do direito, relevantes em face das situa\u00e7\u00f5es consideradas e, em especial:",
+            "a) Da confian\u00e7a suscitada na contraparte pela actua\u00e7\u00e3o em causa;",
+            "b) Do objectivo a alcan\u00e7ar com a actua\u00e7\u00e3o empreendida."
+        ],
+        "Titulo": "PARTE I Princ\u00edpios gerais CAP\u00cdTULO II Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 9.\u00ba",
+        "Ementa": "(Princ\u00edpio da colabora\u00e7\u00e3o entre a Administra\u00e7\u00e3o e os particulares)",
+        "Numero": [
+            "1. Os \u00f3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica e os particulares devem actuar em estreita coopera\u00e7\u00e3o rec\u00edproca, devendo designadamente:",
+            "a) Prestar as informa\u00e7\u00f5es e os esclarecimentos solicitados, desde que n\u00e3o tenham car\u00e1cter confidencial ou de reserva pessoal;",
+            "b) Apoiar e estimular todas as iniciativas socialmente \u00fateis.",
+            "2. A Administra\u00e7\u00e3o P\u00fablica \u00e9 respons\u00e1vel pelas informa\u00e7\u00f5es prestadas por escrito aos particulares, ainda que n\u00e3o obrigat\u00f3rias."
+        ],
+        "Titulo": "PARTE I Princ\u00edpios gerais CAP\u00cdTULO II Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 10.\u00ba",
+        "Ementa": "(Princ\u00edpio da participa\u00e7\u00e3o)",
+        "Numero": [
+            "Os \u00f3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica devem assegurar a participa\u00e7\u00e3o dos particulares, bem como das associa\u00e7\u00f5es que tenham por objecto a defesa dos seus interesses, na forma\u00e7\u00e3o das decis\u00f5es que lhes disserem respeito, designadamente atrav\u00e9s da respectiva audi\u00eancia, nos termos deste C\u00f3digo."
+        ],
+        "Titulo": "PARTE I Princ\u00edpios gerais CAP\u00cdTULO II Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 11.\u00ba",
+        "Ementa": "(Princ\u00edpio da decis\u00e3o)",
+        "Numero": [
+            "1. Os \u00f3rg\u00e3os administrativos t\u00eam o dever de se pronunciar sobre todos os assuntos da sua compet\u00eancia que lhes sejam apresentados pelos particulares, e nomeadamente:",
+            "a) Sobre os assuntos que lhes disserem directamente respeito;",
+            "b) Sobre quaisquer peti\u00e7\u00f5es, representa\u00e7\u00f5es, queixas, reclama\u00e7\u00f5es ou recursos formulados em defesa da legalidade ou do interesse geral.",
+            "2. N\u00e3o existe o dever de decis\u00e3o quando, h\u00e1 menos de dois anos contados desde a pr\u00e1tica do acto at\u00e9 \u00e0 data da apresenta\u00e7\u00e3o do requerimento, o \u00f3rg\u00e3o competente tenha praticado um acto administrativo sobre o mesmo pedido formulado pelo mesmo particular com os mesmos fundamentos."
+        ],
+        "Titulo": "PARTE I Princ\u00edpios gerais CAP\u00cdTULO II Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 12.\u00ba",
+        "Ementa": "(Princ\u00edpio da desburocratiza\u00e7\u00e3o e da efici\u00eancia)",
+        "Numero": [
+            "A Administra\u00e7\u00e3o P\u00fablica deve ser estruturada e funcionar de modo a aproximar os servi\u00e7os das popula\u00e7\u00f5es e de forma n\u00e3o burocratizada, a fim de assegurar a celeridade, a economia e a efici\u00eancia das suas decis\u00f5es."
+        ],
+        "Titulo": "PARTE I Princ\u00edpios gerais CAP\u00cdTULO II Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 13.\u00ba",
+        "Ementa": "(Princ\u00edpio da gratuitidade)",
+        "Numero": [
+            "1. O procedimento administrativo \u00e9 gratuito, salvo na parte em que leis especiais impuserem o pagamento de taxas ou de despesas efectuadas pela Administra\u00e7\u00e3o.",
+            "2. Em caso de comprovada insufici\u00eancia econ\u00f3mica, a Administra\u00e7\u00e3o isenta o interessado do pagamento das taxas ou dos custos referidos no n\u00famero anterior.",
+            "3. A insufici\u00eancia econ\u00f3mica pode ser provada por qualquer id\u00f3neo, designadamente:",
+            "a) Atestado da situa\u00e7\u00e3o econ\u00f3mica emitido pelo \u00f3rg\u00e3o da administra\u00e7\u00e3o competente em mat\u00e9ria de ac\u00e7\u00e3o social;",
+            "b) Certid\u00e3o comprovativa de que o requerente se encontra a cargo da assist\u00eancia p\u00fablica.",
+            "4. Os documentos a que se refere o n\u00famero anterior devem mencionar expressamente que se destinam a instruir um pedido de isen\u00e7\u00e3o de taxas ou custos administrativos."
+        ],
+        "Titulo": "PARTE I Princ\u00edpios gerais CAP\u00cdTULO II Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 14.\u00ba",
+        "Ementa": "(Princ\u00edpio do acesso \u00e0 justi\u00e7a)",
+        "Numero": [
+            "Aos particulares \u00e9 garantido o acesso aos tribunais com jurisdi\u00e7\u00e3o administrativa, a fim de obterem a fiscaliza\u00e7\u00e3o contenciosa dos actos da Administra\u00e7\u00e3o, bem como para tutela dos seus direitos ou interesses legalmente protegidos, nos termos previstos na legisla\u00e7\u00e3o reguladora do contencioso administrativo."
+        ],
+        "Titulo": "PARTE I Princ\u00edpios gerais CAP\u00cdTULO II Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 15.\u00ba",
+        "Ementa": "(\u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica)",
+        "Numero": [
+            "a) Os \u00f3rg\u00e3os que exer\u00e7am fun\u00e7\u00f5es administrativas;",
+            "b) Os \u00f3rg\u00e3os dos institutos p\u00fablicos e das associa\u00e7\u00f5es p\u00fablicas."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O I Generalidades"
+    },
+    {
+        "Artigo": "Artigo 16.\u00ba",
+        "Ementa": "(Presidente e secret\u00e1rio)",
+        "Numero": [
+            "1. Sempre que a lei n\u00e3o disponha de forma diferente, cada \u00f3rg\u00e3o administrativo colegial tem um presidente e um secret\u00e1rio, a eleger pelos membros que o comp\u00f5em.",
+            "2. Compete ao presidente do \u00f3rg\u00e3o colegial, al\u00e9m de outras fun\u00e7\u00f5es que lhe sejam atribu\u00eddas, abrir e encerrar as reuni\u00f5es, dirigir os trabalhos e assegurar o cumprimento das leis e a regularidade das delibera\u00e7\u00f5es.",
+            "3. O presidente pode, ainda, suspender ou encerrar antecipadamente as reuni\u00f5es, quando circunst\u00e2ncias excepcionais o justifiquem, mediante decis\u00e3o fundamentada, a incluir na acta da reuni\u00e3o."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O II \u00d3rg\u00e3os colegiais"
+    },
+    {
+        "Artigo": "Artigo 17.\u00ba",
+        "Ementa": "(Substitui\u00e7\u00e3o do presidente e secret\u00e1rio)",
+        "Numero": [
+            "1. Salvo disposi\u00e7\u00e3o legal em contr\u00e1rio, o presidente e o secret\u00e1rio de qualquer \u00f3rg\u00e3o colegial s\u00e3o substitu\u00eddos, respectivamente, pelo vogal mais antigo e pelo vogal mais moderno.",
+            "2. No caso de os vogais possu\u00edrem a mesma antiguidade, a substitui\u00e7\u00e3o faz-se, respectivamente, pelo vogal de mais idade e pelo mais jovem."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O II \u00d3rg\u00e3os colegiais"
+    },
+    {
+        "Artigo": "Artigo 18.\u00ba",
+        "Ementa": "(Reuni\u00f5es ordin\u00e1rias)",
+        "Numero": [
+            "1. Na falta de determina\u00e7\u00e3o legal ou de delibera\u00e7\u00e3o do \u00f3rg\u00e3o, compete ao presidente a fixa\u00e7\u00e3o dos dias e horas das reuni\u00f5es ordin\u00e1rias.",
+            "2. Quaisquer altera\u00e7\u00f5es ao dia e hora fixados para as reuni\u00f5es devem ser comunicadas a todos os membros do \u00f3rg\u00e3o colegial, de forma a garantir o seu conhecimento seguro e oportuno."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O II \u00d3rg\u00e3os colegiais"
+    },
+    {
+        "Artigo": "Artigo 19.\u00ba",
+        "Ementa": "(Reuni\u00f5es extraordin\u00e1rias)",
+        "Numero": [
+            "1. As reuni\u00f5es extraordin\u00e1rias t\u00eam lugar mediante convoca\u00e7\u00e3o do presidente, salvo disposi\u00e7\u00e3o especial.",
+            "2. O presidente \u00e9 obrigado a proceder \u00e0 convoca\u00e7\u00e3o sempre que, pelo menos, um ter\u00e7o dos vogais lho solicitem por escrito, indicando o assunto que desejam ver tratado.",
+            "3. A convocat\u00f3ria da reuni\u00e3o deve ser feita para um dos quinze dias seguintes \u00e0 apresenta\u00e7\u00e3o do pedido, mas sempre com uma anteced\u00eancia m\u00ednima de 48 horas.",
+            "4. Da convocat\u00f3ria devem constar, de forma expressa e especificada, os assuntos a tratar na reuni\u00e3o."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O II \u00d3rg\u00e3os colegiais"
+    },
+    {
+        "Artigo": "Artigo 20.\u00ba",
+        "Ementa": "(Ordem do dia)",
+        "Numero": [
+            "1. A ordem do dia de cada reuni\u00e3o \u00e9 estabelecida pelo presidente que, salvo disposi\u00e7\u00e3o especial, deve incluir nela os assuntos que para esse fim lhe forem indicados por qualquer vogal, desde que sejam da compet\u00eancia do \u00f3rg\u00e3o e o pedido seja apresentado por escrito com uma anteced\u00eancia m\u00ednima de cinco dias.",
+            "2. A ordem do dia deve ser entregue a todos os membros com a anteced\u00eancia de, pelo menos, 48 horas."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O II \u00d3rg\u00e3os colegiais"
+    },
+    {
+        "Artigo": "Artigo 21.\u00ba",
+        "Ementa": "(Objecto das delibera\u00e7\u00f5es)",
+        "Numero": [
+            "S\u00f3 podem ser objecto de delibera\u00e7\u00e3o os assuntos inclu\u00eddos na ordem do dia da reuni\u00e3o, salvo se, tratando-se de reuni\u00e3o ordin\u00e1ria, pelo menos dois ter\u00e7os dos membros reconhecerem a urg\u00eancia de delibera\u00e7\u00e3o imediata sobre outros assuntos."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O II \u00d3rg\u00e3os colegiais"
+    },
+    {
+        "Artigo": "Artigo 22.\u00ba",
+        "Ementa": "(Reuni\u00f5es p\u00fablicas)",
+        "Numero": [
+            "1. As reuni\u00f5es dos \u00f3rg\u00e3os administrativos n\u00e3o s\u00e3o p\u00fablicas, salvo disposi\u00e7\u00e3o da lei em contr\u00e1rio.",
+            "2. Quando as reuni\u00f5es hajam de ser p\u00fablicas, deve ser dada publicidade aos dias, horas e locais da sua realiza\u00e7\u00e3o, de forma a garantir o conhecimento dos interessados com uma anteced\u00eancia de, pelo menos, 48 horas."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O II \u00d3rg\u00e3os colegiais"
+    },
+    {
+        "Artigo": "Artigo 23.\u00ba",
+        "Ementa": "(Inobserv\u00e2ncia das disposi\u00e7\u00f5es sobre convoca\u00e7\u00e3o de reuni\u00f5es)",
+        "Numero": [
+            "A ilegalidade resultante da inobserv\u00e2ncia das disposi\u00e7\u00f5es sobre a convoca\u00e7\u00e3o de reuni\u00f5es s\u00f3 se considera sanada quando todos os membros do \u00f3rg\u00e3o compare\u00e7am \u00e0 reuni\u00e3o e n\u00e3o suscitem oposi\u00e7\u00e3o \u00e0 sua realiza\u00e7\u00e3o."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O II \u00d3rg\u00e3os colegiais"
+    },
+    {
+        "Artigo": "Artigo 24.\u00ba",
+        "Ementa": "(Qu\u00f3rum)",
+        "Numero": [
+            "1. Os \u00f3rg\u00e3os colegiais s\u00f3 podem funcionar e deliberar em primeira convoca\u00e7\u00e3o quando esteja presente a maioria do n\u00famero legal dos seus membros com direito de voto.",
+            "2. Sempre que a lei n\u00e3o disponha de forma diferente, n\u00e3o comparecendo o n\u00famero de membros exigido, \u00e9 convocada nova reuni\u00e3o, com o intervalo de, pelo menos, 24 horas, podendo o \u00f3rg\u00e3o funcionar e deliberar desde que estejam presentes um ter\u00e7o dos membros com direito de voto, em n\u00famero n\u00e3o inferior a tr\u00eas, o que deve constar expressamente da convocat\u00f3ria."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O II \u00d3rg\u00e3os colegiais"
+    },
+    {
+        "Artigo": "Artigo 25.\u00ba",
+        "Ementa": "(Obrigatoriedade de voto)",
+        "Numero": [
+            "No sil\u00eancio da lei, \u00e9 proibida a absten\u00e7\u00e3o a todos os membros dos \u00f3rg\u00e3os colegiais consultivos que estejam presentes \u00e0 reuni\u00e3o e n\u00e3o se encontrem impedidos de intervir."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O II \u00d3rg\u00e3os colegiais"
+    },
+    {
+        "Artigo": "Artigo 26.\u00ba",
+        "Ementa": "(Formas de vota\u00e7\u00e3o)",
+        "Numero": [
+            "1. Salvo disposi\u00e7\u00e3o legal em contr\u00e1rio, as delibera\u00e7\u00f5es s\u00e3o tomadas por vota\u00e7\u00e3o nominal, devendo votar primeiramente os vogais e, por fim, o presidente.",
+            "2. S\u00e3o tomadas por escrut\u00ednio secreto as delibera\u00e7\u00f5es que envolvam a aprecia\u00e7\u00e3o do comportamento ou das qualidades de qualquer pessoa.",
+            "3. Em caso de d\u00favida sobre a qualifica\u00e7\u00e3o das delibera\u00e7\u00f5es referidas no n\u00famero anterior, o \u00f3rg\u00e3o colegial delibera sobre a forma de vota\u00e7\u00e3o.",
+            "4. Quando exigida, a fundamenta\u00e7\u00e3o das delibera\u00e7\u00f5es tomadas por escrut\u00ednio secreto deve ser feita pelo presidente do \u00f3rg\u00e3o colegial ap\u00f3s a vota\u00e7\u00e3o, tendo presente a discuss\u00e3o que a tiver precedido.",
+            "5. N\u00e3o podem estar presentes no momento da discuss\u00e3o nem da vota\u00e7\u00e3o os membros dos \u00f3rg\u00e3os colegiais que se encontrem ou se considerem impedidos."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O II \u00d3rg\u00e3os colegiais"
+    },
+    {
+        "Artigo": "Artigo 27.\u00ba",
+        "Ementa": "(Maioria exig\u00edvel nas delibera\u00e7\u00f5es)",
+        "Numero": [
+            "1. As delibera\u00e7\u00f5es s\u00e3o tomadas por maioria absoluta de votos dos membros presentes \u00e0 reuni\u00e3o, salvo nos casos em que, por disposi\u00e7\u00e3o legal, se exija maioria qualificada ou seja suficiente maioria relativa.",
+            "2. Se for exig\u00edvel maioria absoluta e esta se n\u00e3o formar, nem se verificar empate, procede-se imediatamente a nova vota\u00e7\u00e3o e, se aquela situa\u00e7\u00e3o se mantiver, adia-se a delibera\u00e7\u00e3o para a reuni\u00e3o seguinte, na qual \u00e9 suficiente a maioria relativa."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O II \u00d3rg\u00e3os colegiais"
+    },
+    {
+        "Artigo": "Artigo 28.\u00ba",
+        "Ementa": "(Empate na vota\u00e7\u00e3o)",
+        "Numero": [
+            "1. Em caso de empate na vota\u00e7\u00e3o, o presidente tem voto de qualidade, salvo se a vota\u00e7\u00e3o se tiver efectuado por escrut\u00ednio secreto.",
+            "2. Havendo empate em vota\u00e7\u00e3o por escrut\u00ednio secreto, procede-se imediatamente a nova vota\u00e7\u00e3o e, se o empate se mantiver, adia-se a delibera\u00e7\u00e3o para a reuni\u00e3o seguinte; se na primeira vota\u00e7\u00e3o dessa reuni\u00e3o se mantiver o empate, procede-se a vota\u00e7\u00e3o nominal."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O II \u00d3rg\u00e3os colegiais"
+    },
+    {
+        "Artigo": "Artigo 29.\u00ba",
+        "Ementa": "(Acta da reuni\u00e3o)",
+        "Numero": [
+            "1. De cada reuni\u00e3o \u00e9 lavrada acta, que deve conter um resumo de tudo o que nela tiver ocorrido, indicando, designadamente, a data e o local da reuni\u00e3o, os membros presentes, os assuntos apreciados, as delibera\u00e7\u00f5es tomadas e a forma e o resultado das respectivas vota\u00e7\u00f5es.",
+            "2. As actas s\u00e3o lavradas pelo secret\u00e1rio e postas \u00e0 aprova\u00e7\u00e3o de todos os membros no final da respectiva reuni\u00e3o ou no in\u00edcio da seguinte, sendo assinadas, ap\u00f3s a aprova\u00e7\u00e3o, pelo presidente e pelo secret\u00e1rio.",
+            "3. Nos casos em que o \u00f3rg\u00e3o assim o delibere, a acta \u00e9 aprovada, em minuta, logo na reuni\u00e3o a que disser respeito.",
+            "4. As delibera\u00e7\u00f5es dos \u00f3rg\u00e3os colegiais s\u00f3 podem adquirir efic\u00e1cia depois de aprovadas as respectivas actas ou depois de assinadas as minutas, nos termos do n\u00famero anterior."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O II \u00d3rg\u00e3os colegiais"
+    },
+    {
+        "Artigo": "Artigo 30.\u00ba",
+        "Ementa": "(Registo na acta do voto de vencido)",
+        "Numero": [
+            "1. Os membros do \u00f3rg\u00e3o colegial podem fazer constar da acta o seu voto de vencido e as raz\u00f5es que o justificam.",
+            "2. Aqueles que ficarem vencidos na delibera\u00e7\u00e3o tomada e fizerem registo da respectiva declara\u00e7\u00e3o de voto na acta ficam isentos da responsabilidade que daquela eventualmente resulte.",
+            "3. Quando se trate de pareceres a dar a outros \u00f3rg\u00e3os administrativos, as delibera\u00e7\u00f5es s\u00e3o sempre acompanhadas das declara\u00e7\u00f5es de voto apresentadas."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O II \u00d3rg\u00e3os colegiais"
+    },
+    {
+        "Artigo": "Artigo 31.\u00ba",
+        "Ementa": "(Irrenunciabilidade e inalienabilidade)",
+        "Numero": [
+            "1. A compet\u00eancia \u00e9 definida por lei ou por regulamento e \u00e9 irrenunci\u00e1vel e inalien\u00e1vel, sem preju\u00edzo do disposto quanto \u00e0 delega\u00e7\u00e3o de poderes e \u00e0 substitui\u00e7\u00e3o.",
+            "2. \u00c9 nulo todo o acto ou contrato que tenha por objecto a ren\u00fancia \u00e0 titularidade ou ao exerc\u00edcio da compet\u00eancia conferida aos \u00f3rg\u00e3os administrativos, sem preju\u00edzo da delega\u00e7\u00e3o de poderes e figuras afins."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O III Compet\u00eancia"
+    },
+    {
+        "Artigo": "Artigo 32.\u00ba",
+        "Ementa": "(Fixa\u00e7\u00e3o da compet\u00eancia)",
+        "Numero": [
+            "1. A compet\u00eancia fixa-se no momento em que se inicia o procedimento, sendo irrelevantes as modifica\u00e7\u00f5es de facto que ocorram posteriormente, salvo o disposto no n.\u00ba 3.",
+            "2. S\u00e3o igualmente irrelevantes as modifica\u00e7\u00f5es de direito, excepto se for extinto o \u00f3rg\u00e3o a que o procedimento estava afecto, se deixar de ser competente ou se lhe for atribu\u00edda a compet\u00eancia de que inicialmente carecesse.",
+            "3. Quando o \u00f3rg\u00e3o territorialmente competente passar a ser outro, deve o processo ser-lhe remetido."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O III Compet\u00eancia"
+    },
+    {
+        "Artigo": "Artigo 33.\u00ba",
+        "Ementa": "(Quest\u00f5es prejudiciais)",
+        "Numero": [
+            "1. Se a decis\u00e3o final depender da decis\u00e3o de uma quest\u00e3o que seja da compet\u00eancia de outro \u00f3rg\u00e3o administrativo ou dos tribunais, deve o \u00f3rg\u00e3o competente para a decis\u00e3o final suspender o procedimento administrativo at\u00e9 que o \u00f3rg\u00e3o ou o tribunal competente se pronunciem, salvo se da n\u00e3o resolu\u00e7\u00e3o imediata do assunto resultarem graves preju\u00edzos.",
+            "2. A suspens\u00e3o cessa:",
+            "a) Quando, dependendo a decis\u00e3o da quest\u00e3o prejudicial da formula\u00e7\u00e3o de pedido pelo interessado, o mesmo n\u00e3o o apresentar perante o \u00f3rg\u00e3o administrativo ou o tribunal competente, dentro dos trinta dias seguintes \u00e0 notifica\u00e7\u00e3o da suspens\u00e3o;",
+            "b) Quando o procedimento ou o processo instaurado para conhecimento da quest\u00e3o prejudicial estiver parado, por culpa do interessado, por mais de trinta dias;",
+            "c) Quando, por circunst\u00e2ncias supervenientes, a falta de resolu\u00e7\u00e3o imediata do assunto causar graves preju\u00edzos.",
+            "3. Se n\u00e3o for declarada a suspens\u00e3o ou esta cessar, o \u00f3rg\u00e3o administrativo conhece das quest\u00f5es prejudiciais, mas a respectiva decis\u00e3o n\u00e3o produz quaisquer efeitos fora do procedimento em que for proferida."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O III Compet\u00eancia"
+    },
+    {
+        "Artigo": "Artigo 34.\u00ba",
+        "Ementa": "(Conflitos de compet\u00eancia territorial)",
+        "Numero": [
+            "Em caso de d\u00favida sobre a compet\u00eancia territorial, a entidade que decidir o conflito designa como competente o \u00f3rg\u00e3o cuja localiza\u00e7\u00e3o oferecer maiores vantagens para a boa resolu\u00e7\u00e3o do assunto."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O III Compet\u00eancia"
+    },
+    {
+        "Artigo": "Artigo 35.\u00ba",
+        "Ementa": "(Controlo de compet\u00eancia)",
+        "Numero": [
+            "1. Antes de qualquer decis\u00e3o, o \u00f3rg\u00e3o administrativo deve certificar-se de que \u00e9 competente para conhecer da quest\u00e3o.",
+            "2. A incompet\u00eancia deve ser suscitada oficiosamente pelo \u00f3rg\u00e3o administrativo e pode ser arguida pelos interessados."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O III Compet\u00eancia"
+    },
+    {
+        "Artigo": "Artigo 36.\u00ba",
+        "Ementa": "(Apresenta\u00e7\u00e3o de requerimento a \u00f3rg\u00e3o incompetente)",
+        "Numero": [
+            "1. Quando o particular, por erro desculp\u00e1vel e dentro do prazo fixado, dirigir requerimento, peti\u00e7\u00e3o, reclama\u00e7\u00e3o ou recurso a \u00f3rg\u00e3o incompetente, o respectivo documento \u00e9 oficiosamente remetido ao \u00f3rg\u00e3o competente, de tal se notificando o particular.",
+            "2. Em caso de erro indesculp\u00e1vel, o requerimento, peti\u00e7\u00e3o, reclama\u00e7\u00e3o ou recurso n\u00e3o \u00e9 apreciado, de tal se notificando o particular em prazo n\u00e3o superior a quarenta e oito horas.",
+            "3. Da qualifica\u00e7\u00e3o do erro cabe reclama\u00e7\u00e3o e recurso, nos termos gerais."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O III Compet\u00eancia"
+    },
+    {
+        "Artigo": "Artigo 37.\u00ba",
+        "Ementa": "(Delega\u00e7\u00e3o de poderes)",
+        "Numero": [
+            "1. Os \u00f3rg\u00e3os administrativos normalmente competentes para decidir em determinada mat\u00e9ria podem, sempre que para tal estejam habilitados por lei, permitir, atrav\u00e9s de um acto de delega\u00e7\u00e3o de poderes, que outro \u00f3rg\u00e3o ou agente pratique actos administrativos sobre a mesma mat\u00e9ria.",
+            "2. Mediante um acto de delega\u00e7\u00e3o de poderes, os \u00f3rg\u00e3os administrativos competentes para decidir em determinada mat\u00e9ria podem sempre permitir, independentemente de lei de habilita\u00e7\u00e3o, que o seu imediato inferior hier\u00e1rquico, adjunto ou substituto pratiquem actos de administra\u00e7\u00e3o ordin\u00e1ria nessa mat\u00e9ria.",
+            "3. O disposto no n\u00famero anterior vale igualmente para a delega\u00e7\u00e3o de poderes dos \u00f3rg\u00e3os colegiais nos respectivos presidentes, salvo havendo lei de habilita\u00e7\u00e3o espec\u00edfica que estabele\u00e7a uma particular reparti\u00e7\u00e3o de compet\u00eancias entre os diversos \u00f3rg\u00e3os."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O IV Delega\u00e7\u00e3o de poderes e substitui\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 38.\u00ba",
+        "Ementa": "(Subdelega\u00e7\u00e3o de poderes)",
+        "Numero": [
+            "Salvo disposi\u00e7\u00e3o legal em contr\u00e1rio, o delegante pode autorizar o delegado a subdelegar."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O IV Delega\u00e7\u00e3o de poderes e substitui\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 39.\u00ba",
+        "Ementa": "(Requisitos do acto de delega\u00e7\u00e3o)",
+        "Numero": [
+            "1. No acto de delega\u00e7\u00e3o ou subdelega\u00e7\u00e3o, deve o \u00f3rg\u00e3o delegante ou subdelegante especificar os poderes que s\u00e3o delegados ou subdelegados ou quais os actos que o delegado ou subdelegado pode praticar.",
+            "2. Os actos de delega\u00e7\u00e3o e subdelega\u00e7\u00e3o de poderes est\u00e3o sujeitos a publica\u00e7\u00e3o no Boletim Oficial de Macau, e, tratando-se de \u00f3rg\u00e3os municipais, devem ser tamb\u00e9m afixados nos lugares do estilo."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O IV Delega\u00e7\u00e3o de poderes e substitui\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 40.\u00ba",
+        "Ementa": "(Men\u00e7\u00e3o da qualidade de delegado ou subdelegado)",
+        "Numero": [
+            "O \u00f3rg\u00e3o delegado ou subdelegado deve mencionar essa qualidade no uso da delega\u00e7\u00e3o ou subdelega\u00e7\u00e3o."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O IV Delega\u00e7\u00e3o de poderes e substitui\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 41.\u00ba",
+        "Ementa": "(Poderes do delegante ou do subdelegante)",
+        "Numero": [
+            "1. O \u00f3rg\u00e3o delegante ou subdelegante pode emitir directivas ou instru\u00e7\u00f5es vinculativas para o delegado ou subdelegado sobre o modo como devem ser exercidos os poderes delegados ou subdelegados.",
+            "2. O \u00f3rg\u00e3o delegante ou subdelegante tem o poder de avocar, bem como o poder de revogar os actos praticados pelo delegado ou subdelegado, nos termos do disposto no n.\u00ba 2 do artigo 131.\u00ba"
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O IV Delega\u00e7\u00e3o de poderes e substitui\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 42.\u00ba",
+        "Ementa": "(Extin\u00e7\u00e3o da delega\u00e7\u00e3o ou subdelega\u00e7\u00e3o)",
+        "Numero": [
+            "a) Por revoga\u00e7\u00e3o do acto de delega\u00e7\u00e3o ou subdelega\u00e7\u00e3o;",
+            "b) Por caducidade, resultante de se terem esgotado os seus efeitos ou da mudan\u00e7a dos titulares dos \u00f3rg\u00e3os delegante ou delegado, subdelegante ou subdelegado."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O IV Delega\u00e7\u00e3o de poderes e substitui\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 43.\u00ba",
+        "Ementa": "(Substitui\u00e7\u00e3o)",
+        "Numero": [
+            "1. Salvo o disposto em lei especial, nos casos de aus\u00eancia, falta ou impedimento do titular do cargo, a sua substitui\u00e7\u00e3o cabe ao substituto legal ou, na sua falta, ao \u00f3rg\u00e3o ou agente designado pelo substitu\u00eddo.",
+            "2. O exerc\u00edcio de fun\u00e7\u00f5es em substitui\u00e7\u00e3o abrange os poderes delegados ou subdelegados no substitu\u00eddo."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O IV Delega\u00e7\u00e3o de poderes e substitui\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 44.\u00ba",
+        "Ementa": "(Compet\u00eancia para a resolu\u00e7\u00e3o dos conflitos)",
+        "Numero": [
+            "1. Os conflitos de jurisdi\u00e7\u00e3o entre os \u00f3rg\u00e3os da Administra\u00e7\u00e3o e um Tribunal s\u00e3o resolvidos pelo tribunal competente, nos termos da lei.",
+            "2. Os conflitos de atribui\u00e7\u00f5es s\u00e3o resolvidos pelos tribunais administrativos, mediante recurso contencioso, quando envolvam \u00f3rg\u00e3os de pessoas colectivas diferentes.",
+            "3. Os conflitos de compet\u00eancia s\u00e3o resolvidos pelo \u00f3rg\u00e3o de menor categoria hier\u00e1rquica que exercer poderes de supervis\u00e3o sobre os \u00f3rg\u00e3os envolvidos."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O V Conflitos de jurisdi\u00e7\u00e3o, de atribui\u00e7\u00f5es e de compet\u00eancia"
+    },
+    {
+        "Artigo": "Artigo 45.\u00ba",
+        "Ementa": "(Resolu\u00e7\u00e3o administrativa dos conflitos)",
+        "Numero": [
+            "1. A resolu\u00e7\u00e3o dos conflitos de compet\u00eancia pode ser solicitada por qualquer interessado, mediante requerimento fundamentado dirigido \u00e0 entidade competente para a decis\u00e3o do procedimento, e deve ser oficiosamente suscitada pelos \u00f3rg\u00e3os em conflito, logo que dele tenham conhecimento.",
+            "2. O \u00f3rg\u00e3o competente para a resolu\u00e7\u00e3o deve ouvir os \u00f3rg\u00e3os em conflito, se estes ainda n\u00e3o se tiverem pronunciado, e proferir a decis\u00e3o no prazo de trinta dias."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O V Conflitos de jurisdi\u00e7\u00e3o, de atribui\u00e7\u00f5es e de compet\u00eancia"
+    },
+    {
+        "Artigo": "Artigo 46.\u00ba",
+        "Ementa": "(Casos de impedimento)",
+        "Numero": [
+            "1. Nenhum titular de \u00f3rg\u00e3o ou agente da Administra\u00e7\u00e3o P\u00fablica pode intervir em procedimento administrativo, ou em acto ou contrato de direito p\u00fablico ou privado da Administra\u00e7\u00e3o, nos casos seguintes:",
+            "a) Quando nele tenha interesse, por si, como representante ou como gestor de neg\u00f3cios de outra pessoa;",
+            "b) Quando, por si, ou como representante de outra pessoa, nele tenha interesse o seu c\u00f4njuge, algum parente ou afim em linha recta ou at\u00e9 ao 2.\u00ba grau da linha colateral, bem como qualquer pessoa com quem viva em economia comum;",
+            "c) Quando, por si, ou como representante de outra pessoa, tenha interesse em quest\u00e3o semelhante \u00e0 que deva ser decidida, ou quando tal situa\u00e7\u00e3o se verifique em rela\u00e7\u00e3o \u00e0 pessoa abrangida pela al\u00ednea anterior;",
+            "d) Quando tenha intervindo no procedimento como perito ou mandat\u00e1rio ou haja dado parecer sobre quest\u00e3o a resolver;",
+            "e) Quando tenha actuado no procedimento como perito ou mandat\u00e1rio o seu c\u00f4njuge, parente ou afim em linha recta ou at\u00e9 ao 2.\u00ba grau da linha colateral, bem como qualquer pessoa com quem viva em economia comum;",
+            "f) Quando contra ele, seu c\u00f4njuge ou parente em linha recta esteja intentada ac\u00e7\u00e3o judicial proposta por interessado ou pelo respectivo c\u00f4njuge;",
+            "g) Quando se trate de recurso de decis\u00e3o proferida por si, ou com a sua interven\u00e7\u00e3o, ou proferida por qualquer das pessoas referidas na al\u00ednea b) ou com interven\u00e7\u00e3o destas;",
+            "h) Quando se trate de quest\u00e3o relativa a um particular que seja membro de uma associa\u00e7\u00e3o de defesa de interesses econ\u00f3micos ou afins, da qual tamb\u00e9m fa\u00e7a parte o titular do \u00f3rg\u00e3o ou agente.",
+            "2. Excluem-se do disposto no n\u00famero anterior as interven\u00e7\u00f5es que se traduzam em actos de mero expediente, designadamente actos certificativos."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O VI Garantias de imparcialidade"
+    },
+    {
+        "Artigo": "Artigo 47.\u00ba",
+        "Ementa": "(Argui\u00e7\u00e3o e declara\u00e7\u00e3o do impedimento)",
+        "Numero": [
+            "1. Quando se verifique causa de impedimento em rela\u00e7\u00e3o a qualquer titular de \u00f3rg\u00e3o ou agente administrativo, deve o mesmo comunicar desde logo o facto ao respectivo superior hier\u00e1rquico ou ao presidente do \u00f3rg\u00e3o colegial dirigente, consoante os casos.",
+            "2. At\u00e9 ser proferida a decis\u00e3o definitiva ou praticado o acto, qualquer interessado pode requerer a declara\u00e7\u00e3o do impedimento, especificando as circunst\u00e2ncias de facto que constituem a sua causa.",
+            "3. Compete ao superior hier\u00e1rquico e ao presidente do \u00f3rg\u00e3o colegial conhecer da exist\u00eancia do impedimento e declar\u00e1-lo, ouvindo, se considerar necess\u00e1rio, o titular do \u00f3rg\u00e3o ou agente.",
+            "4. Tratando-se de impedimento do presidente do \u00f3rg\u00e3o colegial, a decis\u00e3o do incidente compete ao pr\u00f3prio \u00f3rg\u00e3o, sem interven\u00e7\u00e3o do presidente."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O VI Garantias de imparcialidade"
+    },
+    {
+        "Artigo": "Artigo 48.\u00ba",
+        "Ementa": "(Efeitos da argui\u00e7\u00e3o do impedimento)",
+        "Numero": [
+            "1. O titular do \u00f3rg\u00e3o ou agente deve suspender a sua actividade no procedimento logo que fa\u00e7a a comunica\u00e7\u00e3o a que se refere o n.\u00ba 1 do artigo anterior ou tenha conhecimento do requerimento a que se refere o n.\u00ba 2 do mesmo preceito, at\u00e9 \u00e0 decis\u00e3o do incidente, salvo ordem em contr\u00e1rio do respectivo superior hier\u00e1rquico.",
+            "2. Os impedidos nos termos do n.\u00ba 1 do artigo 46.\u00ba devem tomar as medidas que forem inadi\u00e1veis em caso de urg\u00eancia ou de perigo, as quais devem ser ratificadas pela entidade que os substituir."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O VI Garantias de imparcialidade"
+    },
+    {
+        "Artigo": "Artigo 49.\u00ba",
+        "Ementa": "(Efeitos da declara\u00e7\u00e3o do impedimento)",
+        "Numero": [
+            "1. Declarado o impedimento do titular do \u00f3rg\u00e3o ou agente, \u00e9 o mesmo substitu\u00eddo no procedimento pelo respectivo substituto legal, salvo se o superior hier\u00e1rquico daquele resolver avocar a quest\u00e3o.",
+            "2. Tratando-se de \u00f3rg\u00e3o colegial, se n\u00e3o houver ou n\u00e3o puder ser designado substituto, o \u00f3rg\u00e3o funciona sem o membro impedido."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O VI Garantias de imparcialidade"
+    },
+    {
+        "Artigo": "Artigo 50.\u00ba",
+        "Ementa": "(Fundamento da escusa e suspei\u00e7\u00e3o)",
+        "Numero": [
+            "1. O titular de \u00f3rg\u00e3o ou agente deve pedir dispensa de intervir no procedimento quando ocorra circunst\u00e2ncia pela qual possa razoavelmente suspeitar-se da sua isen\u00e7\u00e3o ou da rectid\u00e3o da sua conduta, e designadamente:",
+            "a) Quando, por si ou como representante de outra pessoa, nele tenha interesse parente ou afim em linha recta ou at\u00e9 ao 3.\u00ba grau da linha colateral, ou tutelado ou curatelado dele ou do seu c\u00f4njuge;",
+            "b) Quando o titular do \u00f3rg\u00e3o ou agente ou o seu c\u00f4njuge, ou algum parente ou afim na linha recta, for credor ou devedor de pessoa singular ou colectiva com interesse directo no procedimento, acto ou contrato;",
+            "c) Quando tenha havido lugar ao recebimento de d\u00e1divas, antes ou depois de iniciado o procedimento, pelo titular do \u00f3rg\u00e3o ou agente, seu c\u00f4njuge, parente ou afim em linha recta;",
+            "d) Se houver inimizade grave ou grande intimidade entre o titular do \u00f3rg\u00e3o ou agente, ou o seu c\u00f4njuge e a pessoa com interesse directo no procedimento, acto ou contrato.",
+            "2. Com fundamento semelhante e at\u00e9 ser proferida decis\u00e3o definitiva, pode qualquer interessado opor suspei\u00e7\u00e3o a titulares de \u00f3rg\u00e3os ou agentes que intervenham no procedimento, acto ou contrato."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O VI Garantias de imparcialidade"
+    },
+    {
+        "Artigo": "Artigo 51.\u00ba",
+        "Ementa": "(Formula\u00e7\u00e3o do pedido)",
+        "Numero": [
+            "1. Nos casos previstos no artigo anterior, o pedido deve ser dirigido \u00e0 entidade competente para dele conhecer, indicando com precis\u00e3o os factos que o justifiquem.",
+            "2. O pedido do titular do \u00f3rg\u00e3o ou agente s\u00f3 \u00e9 formulado por escrito quando assim for determinado pela entidade a quem for dirigido.",
+            "3. Quando o pedido for formulado por interessados no procedimento, acto ou contrato, \u00e9 sempre ouvido o titular do \u00f3rg\u00e3o ou o agente visado."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O VI Garantias de imparcialidade"
+    },
+    {
+        "Artigo": "Artigo 52.\u00ba",
+        "Ementa": "(Decis\u00e3o sobre a escusa ou suspei\u00e7\u00e3o)",
+        "Numero": [
+            "1. A compet\u00eancia para decidir da escusa ou suspei\u00e7\u00e3o defere-se nos termos referidos nos n.os 3 e 4 do artigo 47.\u00ba",
+            "2. A decis\u00e3o \u00e9 proferida no prazo de tr\u00eas dias.",
+            "3. Reconhecida proced\u00eancia ao pedido, observa-se o disposto nos artigos 48.\u00ba e 49.\u00ba"
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O VI Garantias de imparcialidade"
+    },
+    {
+        "Artigo": "Artigo 53.\u00ba",
+        "Ementa": "(San\u00e7\u00e3o)",
+        "Numero": [
+            "1. Os actos ou contratos em que tiverem intervindo titulares dos \u00f3rg\u00e3os ou agentes impedidos s\u00e3o anul\u00e1veis nos termos gerais, salvo se outra san\u00e7\u00e3o estiver especialmente prevista.",
+            "2. A omiss\u00e3o do dever de comunica\u00e7\u00e3o a que alude o artigo 47.\u00ba, n.\u00ba 1, constitui falta grave para efeitos disciplinares."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO I \u00d3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica SEC\u00c7\u00c3O VI Garantias de imparcialidade"
+    },
+    {
+        "Artigo": "Artigo 54.\u00ba",
+        "Ementa": "(Interven\u00e7\u00e3o no procedimento administrativo)",
+        "Numero": [
+            "1. Todos os particulares t\u00eam o direito de intervir pessoalmente no procedimento administrativo ou de nele se fazer representar ou assistir, incluindo por meio de advogado ou solicitador.",
+            "2. A capacidade de interven\u00e7\u00e3o no procedimento, salvo disposi\u00e7\u00e3o especial, tem por base e por medida a capacidade de exerc\u00edcio de direitos segundo a lei civil, a qual \u00e9 tamb\u00e9m aplic\u00e1vel ao suprimento da incapacidade."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO II Interessados"
+    },
+    {
+        "Artigo": "Artigo 55.\u00ba",
+        "Ementa": "(Legitimidade)",
+        "Numero": [
+            "1. T\u00eam legitimidade para iniciar o procedimento administrativo e para intervir nele os titulares de direitos subjectivos ou interesses legalmente protegidos lesados pela actua\u00e7\u00e3o administrativa, bem como as associa\u00e7\u00f5es que tenham por fim a defesa desses interesses.",
+            "2. Consideram-se, ainda, dotados de legitimidade para a protec\u00e7\u00e3o de interesses difusos:",
+            "a) Os cidad\u00e3os a quem a actua\u00e7\u00e3o administrativa provoque ou possa previsivelmente provocar preju\u00edzos relevantes em bens fundamentais como a sa\u00fade p\u00fablica, a habita\u00e7\u00e3o, a educa\u00e7\u00e3o, o patrim\u00f3nio cultural, o ambiente, o ordenamento do territ\u00f3rio e a qualidade de vida;",
+            "b) Os residentes na circunscri\u00e7\u00e3o em que se localize algum bem do dom\u00ednio p\u00fablico afectado pela ac\u00e7\u00e3o da Administra\u00e7\u00e3o.",
+            "3. Para defender os interesses difusos de que sejam titulares os residentes em determinada circunscri\u00e7\u00e3o t\u00eam legitimidade as associa\u00e7\u00f5es dedicadas \u00e0 defesa de tais interesses e os \u00f3rg\u00e3os municipais da respectiva \u00e1rea."
+        ],
+        "Titulo": "PARTE II Sujeitos CAP\u00cdTULO II Interessados"
+    },
+    {
+        "Artigo": "Artigo 56.\u00ba",
+        "Ementa": "(L\u00edngua a empregar no procedimento)",
+        "Numero": [
+            "1. No procedimento administrativo pode ser usada qualquer uma das l\u00ednguas oficiais.",
+            "2. S\u00e3o sempre garantidos aos interessados, quando hajam de iniciar ou de intervir no procedimento, os direitos de se exprimirem, oralmente ou por escrito, na l\u00edngua oficial da sua escolha, e, bem assim, de, nessa mesma l\u00edngua, receberem resposta, de lhes ser facultada vers\u00e3o dos documentos a que tenham acesso e de serem notificados dos actos praticados no procedimento.",
+            "3. A inobservancia do disposto no n\u00famero anterior n\u00e3o afecta a validade ou efic\u00e1cia da decis\u00e3o final do procedimento se os interessados tiverem compreendido claramente o sentido dos actos e formalidades a\u00ed previstos."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO I Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 57.\u00ba",
+        "Ementa": "(Iniciativa)",
+        "Numero": [
+            "O procedimento administrativo come\u00e7a por iniciativa da Administra\u00e7\u00e3o ou a requerimento dos interessados."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO I Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 58.\u00ba",
+        "Ementa": "(Comunica\u00e7\u00e3o aos interessados)",
+        "Numero": [
+            "1. O come\u00e7o do procedimento por iniciativa da Administra\u00e7\u00e3o \u00e9 comunicado \u00e0s pessoas cujos direitos ou interesses legalmente protegidos possam ser lesados pelos actos a praticar no procedimento e que possam ser desde logo nominalmente identificadas.",
+            "2. N\u00e3o h\u00e1 lugar \u00e0 comunica\u00e7\u00e3o determinada no n\u00famero anterior nos casos em que a lei a dispense e naqueles em que a mesma possa prejudicar a natureza secreta ou confidencial da mat\u00e9ria, como tal classificada nos termos legais, ou a oportuna adop\u00e7\u00e3o das provid\u00eancias a que o procedimento se destina.",
+            "3. A comunica\u00e7\u00e3o deve indicar a entidade que ordenou o in\u00edcio do procedimento, a data em que o mesmo se iniciou, o servi\u00e7o por onde o mesmo corre e o respectivo objecto."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO I Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 59.\u00ba",
+        "Ementa": "(Poderes da Administra\u00e7\u00e3o)",
+        "Numero": [
+            "Os \u00f3rg\u00e3os administrativos, mesmo que o procedimento seja instaurado por iniciativa dos interessados, podem proceder \u00e0s dilig\u00eancias que considerem convenientes para a instru\u00e7\u00e3o, ainda que sobre mat\u00e9rias n\u00e3o mencionadas nos requerimentos ou nas respostas dos interessados, e decidir coisa diferente ou mais ampla do que a pedida, quando o interesse p\u00fabico assim o exigir."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO I Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 60.\u00ba",
+        "Ementa": "(Dever de celeridade)",
+        "Numero": [
+            "Os \u00f3rg\u00e3os administrativos devem providenciar pelo r\u00e1pido e eficaz andamento do procedimento, quer recusando e evitando tudo o que for impertinente ou dilat\u00f3rio, quer ordenando e promovendo tudo o que for necess\u00e1rio ao seguimento do procedimento e \u00e0 justa e oportuna decis\u00e3o."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO I Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 61.\u00ba",
+        "Ementa": "(Prazo geral para a conclus\u00e3o)",
+        "Numero": [
+            "1. O procedimento deve ser conclu\u00eddo no prazo de noventa dias, salvo se outro prazo decorrer da lei ou for imposto por circunst\u00e2ncias excepcionais.",
+            "2. O prazo previsto no n.\u00ba 1 pode ser prorrogado, por um ou mais per\u00edodos, at\u00e9 ao limite de mais noventa dias, mediante autoriza\u00e7\u00e3o do dirigente m\u00e1ximo do servi\u00e7o ou do \u00f3rg\u00e3o colegial competente, tendo em conta nomeadamente a complexidade do procedimento ou a necessidade de fazer intervir outras entidades.",
+            "3. A inobserv\u00e2ncia dos prazos a que se referem os n\u00fameros anteriores deve ser justificada pelo \u00f3rg\u00e3o respons\u00e1vel, perante o dirigente m\u00e1ximo do servi\u00e7o ou perante o \u00f3rg\u00e3o colegial competente, dentro dos cinco dias seguintes ao termo dos mesmos prazos.",
+            "4. Os interessados devem ser informados, no prazo de dez dias, da justifica\u00e7\u00e3o para a n\u00e3o conclus\u00e3o do procedimento nos prazos legais e, quando previs\u00edvel, da data em que a resolu\u00e7\u00e3o definitiva \u00e9 tomada."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO I Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 62.\u00ba",
+        "Ementa": "(Deveres gerais dos interessados)",
+        "Numero": [
+            "1. Os interessados t\u00eam o dever de n\u00e3o formular pretens\u00f5es ilegais, n\u00e3o articular factos contr\u00e1rios \u00e0 verdade, nem requerer dilig\u00eancias meramente dilat\u00f3rias.",
+            "2. Os interessados t\u00eam tamb\u00e9m o dever de prestar a sua colabora\u00e7\u00e3o para o conveniente esclarecimento dos factos e a descoberta da verdade."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO I Princ\u00edpios gerais"
+    },
+    {
+        "Artigo": "Artigo 63.\u00ba",
+        "Ementa": "(Direito dos interessados \u00e0 informa\u00e7\u00e3o)",
+        "Numero": [
+            "1. Os particulares t\u00eam o direito de ser informados pela Administra\u00e7\u00e3o, sempre que o requeiram, sobre o andamento dos procedimentos em que sejam directamente interessados, bem como o direito de conhecer as resolu\u00e7\u00f5es definitivas que sobre eles forem tomadas.",
+            "2. As informa\u00e7\u00f5es a prestar abrangem a indica\u00e7\u00e3o do servi\u00e7o onde o processo se encontra, os actos e dilig\u00eancias praticados, as defici\u00eancias a suprir pelos interessados, as decis\u00f5es adoptadas e quaisquer outros elementos solicitados.",
+            "3. N\u00e3o podem ser prestadas informa\u00e7\u00f5es sobre pe\u00e7as ou elementos:",
+            "a) Que, nos termos legais, estejam classificados como secretos ou confidenciais, enquanto essa classifica\u00e7\u00e3o n\u00e3o for retirada pela entidade competente;",
+            "b) Cujo conhecimento pelos interessados possa comprometer o fim principal do procedimento ou direitos fundamentais de outras pessoas.",
+            "4. As informa\u00e7\u00f5es solicitadas ao abrigo deste artigo devem ser fornecidas no prazo m\u00e1ximo de dez dias \u00fateis.",
+            "5. A recusa da presta\u00e7\u00e3o de informa\u00e7\u00f5es \u00e9 sempre fundamentada e, se o interessado o solicitar, formulada por escrito."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO II Direito \u00e0 informa\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 64.\u00ba",
+        "Ementa": "(Consulta do processo e passagem de certid\u00f5es)",
+        "Numero": [
+            "1. Os interessados t\u00eam o direito de consultar o processo que n\u00e3o contenha documentos classificados, ou que revelem segredo comercial ou industrial ou segredo relativo \u00e0 propriedade liter\u00e1ria, art\u00edstica ou cient\u00edfica.",
+            "2. Os interessados t\u00eam o direito, mediante o pagamento das import\u00e2ncias que forem devidas, de obter certid\u00e3o, reprodu\u00e7\u00e3o ou declara\u00e7\u00e3o autenticada dos documentos que constem dos processos a que tenham acesso."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO II Direito \u00e0 informa\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 65.\u00ba",
+        "Ementa": "(Certid\u00f5es independentes de despacho)",
+        "Numero": [
+            "1. Os funcion\u00e1rios competentes s\u00e3o obrigados a passar aos interessados, independentemente de despacho, e no prazo de dez dias \u00fateis a contar da apresenta\u00e7\u00e3o do respectivo requerimento, certid\u00e3o, reprodu\u00e7\u00e3o ou declara\u00e7\u00e3o autenticada de que constem, consoante o pedido, todos ou alguns dos seguintes elementos:",
+            "a) Data de apresenta\u00e7\u00e3o de requerimentos ou documentos semelhantes;",
+            "b) Conte\u00fado desses documentos ou pretens\u00e3o neles formulada;",
+            "c) Andamento que tiveram ou situa\u00e7\u00e3o em que se encontram;",
+            "d) Resolu\u00e7\u00e3o tomada ou falta de resolu\u00e7\u00e3o.",
+            "2. O dever estabelecido no n\u00famero anterior n\u00e3o abrange os documentos classificados ou que revelem segredo comercial ou industrial ou segredo relativo a propriedade liter\u00e1ria, art\u00edstica ou cient\u00edfica."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO II Direito \u00e0 informa\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 66.\u00ba",
+        "Ementa": "(Extens\u00e3o do direito de informa\u00e7\u00e3o)",
+        "Numero": [
+            "1. Os direitos reconhecidos nos artigos 63.\u00ba a 65.\u00ba s\u00e3o extensivos a quaisquer pessoas que provem ter interesse leg\u00edtimo no conhecimento dos elementos que pretendam.",
+            "2. O exerc\u00edcio dos direitos previstos no n\u00famero anterior depende de despacho do dirigente do servi\u00e7o, exarado em requerimento escrito, instru\u00eddo com os documentos probat\u00f3rios do interesse leg\u00edtimo invocado."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO II Direito \u00e0 informa\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 67.\u00ba",
+        "Ementa": "(Princ\u00edpio da administra\u00e7\u00e3o aberta)",
+        "Numero": [
+            "1. Os particulares t\u00eam direito de acesso aos arquivos e registos administrativos, mesmo que n\u00e3o se encontre em curso qualquer procedimento que lhes diga directamente respeito.",
+            "2. O direito de acesso aos documentos nominativos \u00e9 reservado \u00e0 pessoa a quem os dados digam respeito e a terceiros que demonstrem interesse directo e pessoal.",
+            "3. O acesso aos arquivos e registos administrativos pode ser recusado, mediante decis\u00e3o fundamentada, em mat\u00e9rias relativas \u00e0 seguran\u00e7a do Territ\u00f3rio, \u00e0 investiga\u00e7\u00e3o criminal e \u00e0 intimidade das pessoas.",
+            "4. O acesso aos arquivos e registos administrativos faz-se em regra mediante a passagem de certid\u00f5es ou fotoc\u00f3pias autenticadas dos elementos que os integram, sendo poss\u00edvel a consulta directa dos documentos arquivados ou registados quando a lei a permita ou quando o \u00f3rg\u00e3o competente a autorize.",
+            "5. A consulta directa ou a passagem de certid\u00f5es ou fotoc\u00f3pias, quando permitidas ou autorizadas, devem ser asseguradas aos interessados no prazo m\u00e1ximo de dez dias \u00fateis."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO II Direito \u00e0 informa\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 68.\u00ba",
+        "Ementa": "(Dever de notificar)",
+        "Numero": [
+            "a) Decidam sobre quaisquer pretens\u00f5es por eles formuladas;",
+            "b) Imponham deveres, sujei\u00e7\u00f5es ou san\u00e7\u00f5es, ou causem preju\u00edzos;",
+            "c) Criem, extingam, aumentem ou diminuam direitos ou interesses legalmente protegidos, ou afectem as condi\u00e7\u00f5es do seu exerc\u00edcio."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO III Notifica\u00e7\u00f5es"
+    },
+    {
+        "Artigo": "Artigo 69.\u00ba",
+        "Ementa": "(Dispensa de notifica\u00e7\u00f5es)",
+        "Numero": [
+            "1. \u00c9 dispensada a notifica\u00e7\u00e3o dos actos nos casos seguintes:",
+            "a) Quando sejam praticados oralmente na presen\u00e7a dos interessados;",
+            "b) Quando o interessado, atrav\u00e9s de qualquer interven\u00e7\u00e3o no procedimento, revele perfeito conhecimento do conte\u00fado dos actos em causa.",
+            "2. Nos casos previstos no n\u00famero anterior, os prazos cuja contagem se devesse iniciar com a notifica\u00e7\u00e3o come\u00e7am a correr no dia seguinte ao da pr\u00e1tica oral do acto ou no dia seguinte \u00e0quele em que ocorrer a interven\u00e7\u00e3o do interessado no procedimento."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO III Notifica\u00e7\u00f5es"
+    },
+    {
+        "Artigo": "Artigo 70.\u00ba",
+        "Ementa": "(Conte\u00fado da notifica\u00e7\u00e3o)",
+        "Numero": [
+            "a) O texto integral do acto administrativo;",
+            "b) A identifica\u00e7\u00e3o do procedimento administrativo, incluindo a indica\u00e7\u00e3o do autor do acto e a data deste;",
+            "c) O \u00f3rg\u00e3o competente para apreciar a impugna\u00e7\u00e3o do acto e o prazo para esse efeito;",
+            "d) A indica\u00e7\u00e3o de o acto ser ou n\u00e3o suscept\u00edvel de recurso contencioso."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO III Notifica\u00e7\u00f5es"
+    },
+    {
+        "Artigo": "Artigo 71.\u00ba",
+        "Ementa": "(Prazo das notifica\u00e7\u00f5es)",
+        "Numero": [
+            "Quando n\u00e3o exista prazo especialmente fixado, os actos administrativos devem ser notificados no prazo de oito dias."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO III Notifica\u00e7\u00f5es"
+    },
+    {
+        "Artigo": "Artigo 72.\u00ba",
+        "Ementa": "(Forma das notifica\u00e7\u00f5es)",
+        "Numero": [
+            "1. As notifica\u00e7\u00f5es devem ser feitas pessoalmente ou por of\u00edcio, telegrama, telex, telefax, ou por telefone, consoante as possibilidades e as conveni\u00eancias.",
+            "2. Se qualquer das referidas formas de notifica\u00e7\u00e3o pessoal se revelar imposs\u00edvel ou ainda se os interessados a notificar forem desconhecidos ou em n\u00famero tal que inviabilize essas formas de notifica\u00e7\u00e3o, \u00e9 feita notifica\u00e7\u00e3o edital, afixando-se editais nos locais de estilo e publicando-se an\u00fancios em dois dos jornais mais lidos do Territ\u00f3rio, um em l\u00edngua portuguesa, outro em l\u00edngua chinesa.",
+            "3. Sempre que a notifica\u00e7\u00e3o seja feita por telefone, \u00e9 a mesma confirmada por uma das outras formas previstas no n.\u00ba 1, no dia \u00fatil imediato, sem preju\u00edzo de a notifica\u00e7\u00e3o se considerar feita na data da primeira comunica\u00e7\u00e3o."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO III Notifica\u00e7\u00f5es"
+    },
+    {
+        "Artigo": "Artigo 73.\u00ba",
+        "Ementa": "(Prazo geral)",
+        "Numero": [
+            "1. Na falta de disposi\u00e7\u00e3o especial ou de fixa\u00e7\u00e3o pela Administra\u00e7\u00e3o, o prazo para os actos a praticar pelos \u00f3rg\u00e3os administrativos \u00e9 de quinze dias.",
+            "2. \u00c9 igualmente de quinze dias o prazo para os interessados requererem ou praticarem quaisquer actos, promoverem dilig\u00eancias, responderem sobre os assuntos acerca dos quais se devam pronunciar ou exercerem outros poderes no procedimento."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO IV Prazos e dila\u00e7\u00f5es"
+    },
+    {
+        "Artigo": "Artigo 74.\u00ba",
+        "Ementa": "(Contagem dos prazos)",
+        "Numero": [
+            "a) N\u00e3o se inclui na contagem o dia em que ocorreu o evento a partir do qual o prazo come\u00e7a a correr;",
+            "b) O prazo \u00e9 cont\u00ednuo e come\u00e7a a correr independentemente de quaisquer formalidades;",
+            "c) O termo do prazo que caia em dia em que o servi\u00e7o n\u00e3o esteja aberto ao p\u00fablico, ou n\u00e3o funcione durante o per\u00edodo normal, transfere-se para o primeiro dia \u00fatil seguinte."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO IV Prazos e dila\u00e7\u00f5es"
+    },
+    {
+        "Artigo": "Artigo 75.\u00ba",
+        "Ementa": "(Dila\u00e7\u00e3o)",
+        "Numero": [
+            "a) Dez dias, se os interessados residirem ou se encontrarem em outras regi\u00f5es da Rep\u00fablica Popular da China;",
+            "b) Vinte dias, se os interessados residirem ou se encontrarem noutro pa\u00eds asi\u00e1tico;",
+            "c) Trinta dias, se os interessados residirem ou se encontrarem em pa\u00eds fora da \u00c1sia."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO IV Prazos e dila\u00e7\u00f5es"
+    },
+    {
+        "Artigo": "Artigo 76.\u00ba",
+        "Ementa": "(Requerimento inicial)",
+        "Numero": [
+            "1. Salvo nos casos em que a lei admite o pedido verbal, o requerimento inicial dos interessados deve ser formulado por escrito e conter:",
+            "a) A designa\u00e7\u00e3o do \u00f3rg\u00e3o administrativo a que se dirige;",
+            "b) A identifica\u00e7\u00e3o do requerente, pela indica\u00e7\u00e3o do nome, estado, profiss\u00e3o e resid\u00eancia;",
+            "c) A exposi\u00e7\u00e3o dos factos em que se baseia o pedido e, quando tal seja poss\u00edvel ao requerente, os respectivos fundamentos de direito;",
+            "d) A indica\u00e7\u00e3o do pedido, em termos claros e precisos;",
+            "e) A data e a assinatura do requerente, ou de outrem, a seu rogo, se o mesmo n\u00e3o souber ou n\u00e3o puder assinar.",
+            "2. Em cada requerimento n\u00e3o pode ser formulado mais de um pedido, salvo se se tratar de pedidos alternativos ou subsidi\u00e1rios."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O I In\u00edcio"
+    },
+    {
+        "Artigo": "Artigo 77.\u00ba",
+        "Ementa": "(Formula\u00e7\u00e3o verbal do requerimento)",
+        "Numero": [
+            "Quando a lei admita a formula\u00e7\u00e3o verbal do requerimento, \u00e9 lavrado termo para esse efeito, o qual deve conter as men\u00e7\u00f5es a que se referem as al\u00edneas a) a d) do n.\u00ba 1 do artigo anterior e ser assinado, depois de datado pelo requerente e pelo agente que receba o pedido."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O I In\u00edcio"
+    },
+    {
+        "Artigo": "Artigo 78.\u00ba",
+        "Ementa": "(Defici\u00eancia do requerimento inicial)",
+        "Numero": [
+            "1. Se o requerimento inicial n\u00e3o satisfazer o disposto no artigo 76.\u00ba, o requerente \u00e9 convidado a suprir as defici\u00eancias existentes que o \u00f3rg\u00e3o administrativo identificar como tal.",
+            "2. Sem preju\u00edzo do disposto no n\u00famero anterior, devem os \u00f3rg\u00e3os e agentes administrativos procurar suprir as defici\u00eancias dos requerimentos de modo a evitar que os interessados sofram preju\u00edzos por virtude de simples irregularidades ou de mera imperfei\u00e7\u00e3o na formula\u00e7\u00e3o dos seus pedidos.",
+            "3. S\u00e3o liminarmente indeferidos os requerimentos que n\u00e3o contenham a identifica\u00e7\u00e3o do requerente e aqueles cujo pedido, ap\u00f3s convite para aclaramento, se mantenha inintelig\u00edvel."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O I In\u00edcio"
+    },
+    {
+        "Artigo": "Artigo 79.\u00ba",
+        "Ementa": "(Apresenta\u00e7\u00e3o dos requerimentos)",
+        "Numero": [
+            "1. Os requerimentos devem ser apresentados aos servi\u00e7os dos \u00f3rg\u00e3os a que s\u00e3o dirigidos.",
+            "2. Salvo disposi\u00e7\u00e3o em contr\u00e1rio, os requerimentos dirigidos a \u00f3rg\u00e3os administrativos podem ser remetidos pelo correio."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O I In\u00edcio"
+    },
+    {
+        "Artigo": "Artigo 80.\u00ba",
+        "Ementa": "(Registo de apresenta\u00e7\u00e3o de requerimento)",
+        "Numero": [
+            "1. A apresenta\u00e7\u00e3o de requerimentos, qualquer que seja o modo por que se efectue, \u00e9 sempre objecto de registo, que deve mencionar o respectivo n\u00famero de ordem, a data, o objecto do requerimento, o n\u00famero de documentos juntos e o nome do requerente.",
+            "2. Os requerimentos s\u00e3o registados segundo a ordem da sua apresenta\u00e7\u00e3o, considerando-se simultaneamente apresentados os recebidos pelo correio na mesma distribui\u00e7\u00e3o.",
+            "3. O registo \u00e9 anotado nos requerimentos, mediante a men\u00e7\u00e3o do respectivo n\u00famero e data, com a rubrica do agente que a ele procedeu."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O I In\u00edcio"
+    },
+    {
+        "Artigo": "Artigo 81.\u00ba",
+        "Ementa": "(Recibo da entrega de requerimentos)",
+        "Numero": [
+            "1. Os interessados podem exigir recibo comprovativo da entrega dos requerimentos apresentados.",
+            "2. O recibo pode ser passado em duplicado ou em fotoc\u00f3pia do requerimento que o requerente apresente para esse fim."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O I In\u00edcio"
+    },
+    {
+        "Artigo": "Artigo 82.\u00ba",
+        "Ementa": "(Quest\u00f5es que prejudiquem o procedimento)",
+        "Numero": [
+            "1. O \u00f3rg\u00e3o administrativo, logo que estejam apurados os elementos necess\u00e1rios, pode conhecer de qualquer quest\u00e3o que prejudique o desenvolvimento normal do procedimento ou impe\u00e7a a tomada de decis\u00e3o sobre o seu objecto e, nomeadamente, das seguintes quest\u00f5es:",
+            "a) A incompet\u00eancia do \u00f3rg\u00e3o administrativo;",
+            "b) A caducidade do direito que se pretende exercer;",
+            "c) A ilegitimidade dos requerentes;",
+            "d) A extemporaneidade do pedido.",
+            "2. Quando o \u00f3rg\u00e3o administrativo entenda que qualquer das quest\u00f5es enunciadas no n\u00famero anterior \u00e9 suscept\u00edvel de obstar ao conhecimento do objecto do procedimento, o interessado deve ser informado sobre o sentido previs\u00edvel da decis\u00e3o e seus fundamentos e pode pronunciar-se sobre a quest\u00e3o no prazo de dez dias."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O I In\u00edcio"
+    },
+    {
+        "Artigo": "Artigo 83.\u00ba",
+        "Ementa": "(Admissibilidade de medidas provis\u00f3rias)",
+        "Numero": [
+            "1. Em qualquer fase do procedimento pode o \u00f3rg\u00e3o competente para a decis\u00e3o final, por sua iniciativa ou a requerimento dos interessados, ordenar as medidas provis\u00f3rias que se mostrem necess\u00e1rias, se houver justo receio de, sem tais medidas, se produzir les\u00e3o grave ou de dif\u00edcil repara\u00e7\u00e3o dos interesses p\u00fablicos em causa.",
+            "2. A decis\u00e3o de ordenar ou alterar qualquer medida provis\u00f3ria deve ser fundamentada e fixar prazo para a sua validade.",
+            "3. A revoga\u00e7\u00e3o das medidas provis\u00f3rias tamb\u00e9m deve ser fundamentada.",
+            "4. O recurso hier\u00e1rquico necess\u00e1rio interposto de decis\u00e3o que ordene qualquer medida provis\u00f3ria n\u00e3o suspende a sua efic\u00e1cia, salvo quando o \u00f3rg\u00e3o competente o determine."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O II Medidas provis\u00f3rias"
+    },
+    {
+        "Artigo": "Artigo 84.\u00ba",
+        "Ementa": "(Caducidade das medidas provis\u00f3rias)",
+        "Numero": [
+            "a) Logo que seja proferida decis\u00e3o definitiva no procedimento;",
+            "b) Quando decorrer o prazo que lhes tiver sido fixado, ou a respectiva prorroga\u00e7\u00e3o;",
+            "c) Se decorrer o prazo fixado na lei para a decis\u00e3o final;",
+            "d) Se, n\u00e3o estando estabelecido tal prazo, a decis\u00e3o final n\u00e3o for proferida dentro dos seis meses seguintes ao in\u00edcio do procedimento."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O II Medidas provis\u00f3rias"
+    },
+    {
+        "Artigo": "Artigo 85.\u00ba",
+        "Ementa": "(Direc\u00e7\u00e3o da instru\u00e7\u00e3o)",
+        "Numero": [
+            "1. A direc\u00e7\u00e3o da instru\u00e7\u00e3o cabe ao \u00f3rg\u00e3o competente para a decis\u00e3o, salvo o disposto nos diplomas org\u00e2nicos dos servi\u00e7os p\u00fablicos ou em preceitos especiais.",
+            "2. O \u00f3rg\u00e3o competente para a decis\u00e3o pode delegar a compet\u00eancia para a direc\u00e7\u00e3o da instru\u00e7\u00e3o em subordinado seu, excepto nos casos em que a lei imponha a sua direc\u00e7\u00e3o pessoal.",
+            "3. O \u00f3rg\u00e3o competente para dirigir a instru\u00e7\u00e3o pode encarregar subordinado seu da realiza\u00e7\u00e3o de dilig\u00eancias instrut\u00f3rias espec\u00edficas.",
+            "4. Nos \u00f3rg\u00e3os colegiais, as delega\u00e7\u00f5es previstas no n.\u00ba 2 podem ser conferidas a membros do \u00f3rg\u00e3o ou a agente dele dependente."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O III Instru\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 86.\u00ba",
+        "Ementa": "(Factos sujeitos a prova)",
+        "Numero": [
+            "1. O \u00f3rg\u00e3o competente deve procurar averiguar todos os factos cujo conhecimento seja conveniente para a justa e r\u00e1pida decis\u00e3o do procedimento, podendo, para o efeito, recorrer a todos os meios de prova admitidos em direito.",
+            "2. N\u00e3o carecem de prova nem de alega\u00e7\u00e3o os factos not\u00f3rios bem como os factos de que o \u00f3rg\u00e3o competente tenha conhecimento em virtude do exerc\u00edcio das suas fun\u00e7\u00f5es.",
+            "3. O \u00f3rg\u00e3o competente deve fazer constar do procedimento os factos de que tenha conhecimento em virtude do exerc\u00edcio das suas compet\u00eancias."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O III Instru\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 87.\u00ba",
+        "Ementa": "(\u00d3nus da prova)",
+        "Numero": [
+            "1. Cabe aos interessados provar os factos que tenham alegado, sem preju\u00edzo do dever cometido ao \u00f3rg\u00e3o competente nos termos do n.\u00ba 1 do artigo anterior.",
+            "2. Os interessados podem juntar documentos e pareceres ou requerer dilig\u00eancias de prova \u00fateis para o esclarecimento dos factos com interesse para a decis\u00e3o."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O III Instru\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 88.\u00ba",
+        "Ementa": "(Solicita\u00e7\u00e3o de provas aos interessados)",
+        "Numero": [
+            "1. O \u00f3rg\u00e3o que dirigir a instru\u00e7\u00e3o pode determinar aos interessados a presta\u00e7\u00e3o de informa\u00e7\u00f5es e a colabora\u00e7\u00e3o noutros meios de prova.",
+            "2. Quando seja necess\u00e1ria a presta\u00e7\u00e3o de informa\u00e7\u00f5es ou a apresenta\u00e7\u00e3o de provas pelos interessados, s\u00e3o estes notificados para o fazerem, por escrito ou oralmente, no prazo e condi\u00e7\u00f5es que forem fixados.",
+            "3. \u00c9 leg\u00edtima a recusa \u00e0s determina\u00e7\u00f5es previstas no n\u00famero anterior, quando a obedi\u00eancia \u00e0s mesmas:",
+            "a) Envolver a viola\u00e7\u00e3o de segredo profissional;",
+            "b) Implicar o esclarecimento de factos cuja revela\u00e7\u00e3o esteja proibida ou dispensada por lei;",
+            "c) Importar a revela\u00e7\u00e3o de factos pun\u00edveis, praticados pelo pr\u00f3prio interessado, pelo seu c\u00f4njuge ou por seu ascendente ou descendente, irm\u00e3o, ou afim nos mesmos graus;",
+            "d) For suscept\u00edvel de causar dano moral ou material ao pr\u00f3prio interessado ou a alguma das pessoas referidas na al\u00ednea anterior."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O III Instru\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 89.\u00ba",
+        "Ementa": "(Produ\u00e7\u00e3o antecipada de prova)",
+        "Numero": [
+            "1. Havendo justo receio de vir a tornar-se imposs\u00edvel ou de dif\u00edcil realiza\u00e7\u00e3o a produ\u00e7\u00e3o de qualquer prova com interesse para a decis\u00e3o, pode o \u00f3rg\u00e3o competente, oficiosamente ou a pedido fundamentado dos interessados, proceder \u00e0 sua recolha antecipada.",
+            "2. A produ\u00e7\u00e3o antecipada de prova pode ter lugar antes da instaura\u00e7\u00e3o do procedimento."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O III Instru\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 90.\u00ba",
+        "Ementa": "(Realiza\u00e7\u00e3o de exames e outras dilig\u00eancias)",
+        "Numero": [
+            "1. Quando seja necess\u00e1rio proceder a exames, vistorias ou outras dilig\u00eancias semelhantes que n\u00e3o possam ser directamente realizadas por servi\u00e7os p\u00fablicos, o \u00f3rg\u00e3o que dirigir a instru\u00e7\u00e3o pode nomear peritos.",
+            "2. Quando sejam nomeados peritos, de acordo com o previsto no n\u00famero anterior, podem os interessados indicar os seus em n\u00famero igual ao da Administra\u00e7\u00e3o e formular quesitos ou indicar pontos para aqueles se pronunciarem.",
+            "3. O \u00f3rg\u00e3o que dirigir a instru\u00e7\u00e3o pode excluir do objecto da dilig\u00eancia os quesitos ou pontos indicados pelos interessados que n\u00e3o se mostrem necess\u00e1rios \u00e0 decis\u00e3o ou tenham por objecto mat\u00e9ria de car\u00e1cter secreto ou confidencial."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O III Instru\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 91.\u00ba",
+        "Ementa": "(Esp\u00e9cies de pareceres)",
+        "Numero": [
+            "1. Os pareceres s\u00e3o obrigat\u00f3rios ou facultativos, consoante sejam ou n\u00e3o exigidos por lei; e s\u00e3o vinculativos ou n\u00e3o vinculativos, conforme as respectivas conclus\u00f5es tenham ou n\u00e3o de ser seguidas pelo \u00f3rg\u00e3o competente para a decis\u00e3o.",
+            "2. Salvo disposi\u00e7\u00e3o expressa em contr\u00e1rio, os pareceres referidos na lei consideram-se obrigat\u00f3rios e n\u00e3o vinculativos."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O III Instru\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 92.\u00ba",
+        "Ementa": "(Forma e prazo dos pareceres)",
+        "Numero": [
+            "1. Os pareceres devem ser sempre fundamentados e concluir de modo expresso e claro sobre todas as quest\u00f5es indicadas na consulta.",
+            "2. Na falta de disposi\u00e7\u00e3o especial, os pareceres s\u00e3o emitidos no prazo de trinta dias, excepto quando o \u00f3rg\u00e3o competente para a instru\u00e7\u00e3o fixar, fundamentadamente, prazo diferente.",
+            "3. Quando um parecer obrigat\u00f3rio e n\u00e3o vinculativo n\u00e3o for emitido dentro dos prazos previstos no n\u00famero anterior, pode o procedimento prosseguir e vir a ser decidido sem o parecer, salvo disposi\u00e7\u00e3o legal expressa em contr\u00e1rio."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O III Instru\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 93.\u00ba",
+        "Ementa": "(Audi\u00eancia dos interessados)",
+        "Numero": [
+            "1. Salvo o disposto nos artigos 96.\u00ba e 97.\u00ba, conclu\u00edda a instru\u00e7\u00e3o, os interessados t\u00eam o direito de ser ouvidos no procedimento antes de ser tomada a decis\u00e3o final, devendo ser informados, nomeadamente, sobre o sentido prov\u00e1vel desta.",
+            "2. O \u00f3rg\u00e3o instrutor decide, em cada caso, se a audi\u00eancia dos interessados \u00e9 escrita ou oral.",
+            "3. A realiza\u00e7\u00e3o da audi\u00eancia dos interessados suspende a contagem de prazos em todos os procedimentos administrativos."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O III Instru\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 94.\u00ba",
+        "Ementa": "(Audi\u00eancia escrita)",
+        "Numero": [
+            "1. Quando o \u00f3rg\u00e3o instrutor optar pela audi\u00eancia escrita, notifica os interessados para, em prazo n\u00e3o inferior a dez dias, dizerem o que se lhes oferecer.",
+            "2. A notifica\u00e7\u00e3o fornece os elementos necess\u00e1rios para que os interessados fiquem a conhecer todos os aspectos relevantes para a decis\u00e3o, nas mat\u00e9rias de facto e de direito, indicando tamb\u00e9m as horas e o local onde o processo pode ser consultado.",
+            "3. Na resposta, os interessados podem pronunciar-se sobre as quest\u00f5es que constituem objecto do procedimento, bem como requerer dilig\u00eancias complementares e juntar documentos."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O III Instru\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 95.\u00ba",
+        "Ementa": "(Audi\u00eancia oral)",
+        "Numero": [
+            "1. Se o \u00f3rg\u00e3o instrutor optar pela audi\u00eancia oral, ordena a convoca\u00e7\u00e3o dos interessados com a anteced\u00eancia de, pelo menos, oito dias.",
+            "2. Na audi\u00eancia oral podem ser apreciadas todas as quest\u00f5es com interesse para a decis\u00e3o, nas mat\u00e9rias de facto e de direito.",
+            "3. A falta de compar\u00eancia dos interessados n\u00e3o constitui motivo de adiamento da audi\u00eancia, mas, se for apresentada justifica\u00e7\u00e3o da falta at\u00e9 ao momento fixado para a audi\u00eancia, deve proceder-se ao adiamento desta.",
+            "4. Da audi\u00eancia \u00e9 lavrada acta, da qual consta o extracto das alega\u00e7\u00f5es feitas pelos interessados, podendo estes juntar quaisquer alega\u00e7\u00f5es escritas, durante a dilig\u00eancia ou posteriormente."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O III Instru\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 96.\u00ba",
+        "Ementa": "(Inexist\u00eancia de audi\u00eancia dos interessados)",
+        "Numero": [
+            "a) Quando a decis\u00e3o seja urgente;",
+            "b) Quando seja razoavelmente de prever que a dilig\u00eancia possa comprometer a execu\u00e7\u00e3o ou a utilidade da decis\u00e3o;",
+            "c) Quando o n\u00famero de interessados a ouvir seja de tal forma elevado que a audi\u00eancia se torne impratic\u00e1vel, devendo nesse caso proceder-se a consulta p\u00fablica, quando poss\u00edvel, pela forma mais adequada."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O III Instru\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 97.\u00ba",
+        "Ementa": "(Dispensa de audi\u00eancia dos interessados)",
+        "Numero": [
+            "a) Se os interessados j\u00e1 se tiverem pronunciado no procedimento sobre as quest\u00f5es que importem \u00e0 decis\u00e3o e sobre as provas produzidas;",
+            "b) Se os elementos constantes do procedimento conduzirem a uma decis\u00e3o favor\u00e1vel aos interessados."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O III Instru\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 98.\u00ba",
+        "Ementa": "(Relat\u00f3rio do instrutor)",
+        "Numero": [
+            "Quando o \u00f3rg\u00e3o instrutor n\u00e3o for o \u00f3rg\u00e3o competente para a decis\u00e3o final, elabora um relat\u00f3rio no qual indica o pedido do interessado, resume o conte\u00fado do procedimento e formula uma proposta de decis\u00e3o, sintetizando as raz\u00f5es de facto e de direito que a justificam."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O III Instru\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 99.\u00ba",
+        "Ementa": "(Causas de extin\u00e7\u00e3o)",
+        "Numero": [
+            "O procedimento extingue-se pela tomada da decis\u00e3o final, bem como por qualquer dos outros factos previstos nesta sec\u00e7\u00e3o."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O IV Decis\u00e3o e outras causas de extin\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 100.\u00ba",
+        "Ementa": "(Decis\u00e3o final expressa)",
+        "Numero": [
+            "Na decis\u00e3o final expressa, o \u00f3rg\u00e3o competente deve resolver todas as quest\u00f5es pertinentes suscitadas durante o procedimento e que n\u00e3o hajam sido decididas em momento anterior."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O IV Decis\u00e3o e outras causas de extin\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 101.\u00ba",
+        "Ementa": "(Deferimento t\u00e1cito)",
+        "Numero": [
+            "1. Se a decis\u00e3o n\u00e3o for proferida no prazo estabelecido por lei, as autoriza\u00e7\u00f5es ou aprova\u00e7\u00f5es solicitadas apenas se consideram concedidas nos casos em que leis especiais prevejam o deferimento t\u00e1cito.",
+            "2. Quando a lei n\u00e3o fixar prazo especial, o prazo de produ\u00e7\u00e3o do deferimento t\u00e1cito \u00e9 de noventa dias a contar da formula\u00e7\u00e3o do pedido ou da apresenta\u00e7\u00e3o do processo para esse efeito.",
+            "3. Os prazos previstos nos n\u00fameros anteriores suspendem-se sempre que o procedimento estiver parado por motivo imput\u00e1vel ao interessado."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O IV Decis\u00e3o e outras causas de extin\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 102.\u00ba",
+        "Ementa": "(Indeferimento t\u00e1cito)",
+        "Numero": [
+            "1. Sem preju\u00edzo do disposto no artigo anterior, a falta, no prazo fixado para a sua emiss\u00e3o, de decis\u00e3o final sobre pretens\u00e3o dirigida a \u00f3rg\u00e3o administrativo competente confere ao interessado, salvo disposi\u00e7\u00e3o em contr\u00e1rio, a faculdade de presumir indeferida essa pretens\u00e3o, para poder exercer o respectivo meio legal de impugna\u00e7\u00e3o.",
+            "2. O prazo a que se refere o n\u00famero anterior \u00e9, salvo o disposto em lei especial, de noventa dias.",
+            "3. Os prazos referidos no n\u00famero anterior contam-se, na falta de disposi\u00e7\u00e3o especial:",
+            "a) Da data da entrada do requerimento ou peti\u00e7\u00e3o no servi\u00e7o competente, quando a lei n\u00e3o imponha formalidades especiais para a fase preparat\u00f3ria da decis\u00e3o;",
+            "b) Do termo do prazo fixado na lei para a conclus\u00e3o daquelas formalidades ou, na falta de fixa\u00e7\u00e3o, do termo dos tr\u00eas meses seguintes \u00e0 apresenta\u00e7\u00e3o da pretens\u00e3o;",
+            "c) Da data do conhecimento da conclus\u00e3o das mesmas formalidades, se essa for anterior ao termo do prazo aplic\u00e1vel de acordo com a al\u00ednea anterior."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O IV Decis\u00e3o e outras causas de extin\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 103.\u00ba",
+        "Ementa": "(Outras causas de extin\u00e7\u00e3o do procedimento)",
+        "Numero": [
+            "1. O procedimento extingue-se quando os interessados, mediante requerimento escrito, desistam do procedimento ou de alguns dos pedidos formulados, ou renunciem aos seus direitos ou interesses legalmente protegidos, salvo se a desist\u00eancia ou a ren\u00fancia n\u00e3o forem permitidas por lei ou se a Administra\u00e7\u00e3o entender que o interesse p\u00fablico exige a sua continua\u00e7\u00e3o.",
+            "2. O \u00f3rg\u00e3o competente para a decis\u00e3o pode declarar o procedimento extinto:",
+            "a) Quando por causa imput\u00e1vel ao interessado este esteja parado por mais de seis meses;",
+            "b) Quando a finalidade a que este se destinava ou o objecto da decis\u00e3o se revelarem imposs\u00edveis ou in\u00fateis."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O IV Decis\u00e3o e outras causas de extin\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 104.\u00ba",
+        "Ementa": "(Falta de pagamento de taxas ou despesas)",
+        "Numero": [
+            "1. O procedimento extingue-se, ainda, pela falta de pagamento, no prazo devido, de quaisquer taxas ou despesas de que a lei fa\u00e7a depender a realiza\u00e7\u00e3o dos actos procedimentais.",
+            "2. Os interessados podem obstar \u00e0 extin\u00e7\u00e3o do procedimento se realizarem o pagamento em dobro da quantia em falta nos dez dias seguintes ao termo do prazo fixado para o seu pagamento."
+        ],
+        "Titulo": "PARTE III Procedimento administrativo CAP\u00cdTULO V Marcha do procedimento SEC\u00c7\u00c3O IV Decis\u00e3o e outras causas de extin\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 105.\u00ba",
+        "Ementa": "(\u00c2mbito de aplica\u00e7\u00e3o)",
+        "Numero": [
+            "As disposi\u00e7\u00f5es do presente cap\u00edtulo aplicam-se a todos os regulamentos da Administra\u00e7\u00e3o P\u00fablica."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO I Regulamento"
+    },
+    {
+        "Artigo": "Artigo 106.\u00ba",
+        "Ementa": "(Pedidos)",
+        "Numero": [
+            "Os interessados podem apresentar aos \u00f3rg\u00e3os competentes pedidos em que solicitem a elabora\u00e7\u00e3o, modifica\u00e7\u00e3o ou revoga\u00e7\u00e3o de regulamentos, os quais devem ser fundamentados, sem o que a Administra\u00e7\u00e3o n\u00e3o toma conhecimento deles."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO I Regulamento"
+    },
+    {
+        "Artigo": "Artigo 107.\u00ba",
+        "Ementa": "(Projecto de regulamento)",
+        "Numero": [
+            "Todo o projecto de regulamento \u00e9 acompanhado de uma exposi\u00e7\u00e3o de motivos, da qual consta obrigatoriamente a indica\u00e7\u00e3o das normas legais e regulamentares vigentes sobre a mat\u00e9ria, bem como dos estudos, pareceres, informa\u00e7\u00f5es e demais elementos que tenham servido de base \u00e0 sua elabora\u00e7\u00e3o."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO I Regulamento"
+    },
+    {
+        "Artigo": "Artigo 108.\u00ba",
+        "Ementa": "(Aprecia\u00e7\u00e3o p\u00fablica)",
+        "Numero": [
+            "1. Quando a natureza da mat\u00e9ria o permita, o \u00f3rg\u00e3o competente deve, em regra, submeter a aprecia\u00e7\u00e3o p\u00fablica, para recolha de sugest\u00f5es, o projecto de regulamento, o qual \u00e9, para o efeito, publicado no Boletim Oficial de Macau.",
+            "2. Os interessados devem dirigir por escrito as suas sugest\u00f5es ao \u00f3rg\u00e3o com compet\u00eancia regulamentar, dentro do prazo de trinta dias contados da data da publica\u00e7\u00e3o do projecto de regulamento.",
+            "3. No pre\u00e2mbulo do regulamento faz-se men\u00e7\u00e3o de que o respectivo projecto foi objecto de aprecia\u00e7\u00e3o p\u00fablica, quando tenha sido o caso."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO I Regulamento"
+    },
+    {
+        "Artigo": "Artigo 109.\u00ba",
+        "Ementa": "(Regulamentos de execu\u00e7\u00e3o e revogat\u00f3rios)",
+        "Numero": [
+            "1. Os regulamentos necess\u00e1rios \u00e0 execu\u00e7\u00e3o das leis em vigor n\u00e3o podem ser objecto de revoga\u00e7\u00e3o global sem que a mat\u00e9ria seja simultaneamente objecto de nova regulamenta\u00e7\u00e3o.",
+            "2. Nos regulamentos faz-se sempre men\u00e7\u00e3o especificada das normas revogadas."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO I Regulamento"
+    },
+    {
+        "Artigo": "Artigo 110.\u00ba",
+        "Ementa": "(Conceito de acto administrativo)",
+        "Numero": [
+            "Para os efeitos da presente lei, consideram-se actos administrativos as decis\u00f5es dos \u00f3rg\u00e3os da Administra\u00e7\u00e3o que ao abrigo de normas de direito p\u00fablico visem produzir efeitos jur\u00eddicos numa situa\u00e7\u00e3o individual e concreta."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O I Validade do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 111.\u00ba",
+        "Ementa": "(Condi\u00e7\u00e3o, termo ou modo)",
+        "Numero": [
+            "Os actos administrativos podem ser sujeitos a condi\u00e7\u00e3o, termo ou modo, desde que estes n\u00e3o sejam contr\u00e1rios \u00e0 lei ou ao fim a que o acto se destina."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O I Validade do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 112.\u00ba",
+        "Ementa": "(Forma dos actos)",
+        "Numero": [
+            "1. Os actos administrativos devem ser praticados por escrito, desde que outra forma n\u00e3o seja prevista por lei ou imposta pela natureza e circunst\u00e2ncias do acto.",
+            "2. A forma escrita s\u00f3 \u00e9 obrigat\u00f3ria para os actos dos \u00f3rg\u00e3os colegiais quando a lei expressamente a determinar, mas esses actos devem ser sempre consignados em acta, sem o que n\u00e3o produzem efeitos."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O I Validade do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 113.\u00ba",
+        "Ementa": "(Men\u00e7\u00f5es obrigat\u00f3rias)",
+        "Numero": [
+            "1. Sem preju\u00edzo de outras refer\u00eancias especialmente exigidas, devem sempre constar do acto:",
+            "a) A indica\u00e7\u00e3o da autoridade que o praticou;",
+            "b) A men\u00e7\u00e3o da delega\u00e7\u00e3o ou subdelega\u00e7\u00e3o de poderes, quando exista;",
+            "c) A identifica\u00e7\u00e3o adequada do destinat\u00e1rio ou destinat\u00e1rios;",
+            "d) A enuncia\u00e7\u00e3o dos factos ou actos que lhe deram origem, quando relevantes;",
+            "e) A fundamenta\u00e7\u00e3o, quando exig\u00edvel;",
+            "f) O conte\u00fado ou o sentido da decis\u00e3o e o respectivo objecto;",
+            "g) A data em que \u00e9 praticado;",
+            "h) A assinatura do autor do acto ou do presidente do \u00f3rg\u00e3o colegial de que emane.",
+            "2. Todas as men\u00e7\u00f5es exigidas pelo n\u00famero anterior devem ser enunciadas de forma clara, precisa e completa de modo a poderem determinar-se inequivocamente o seu sentido e alcance e os efeitos jur\u00eddicos do acto administrativo.",
+            "3. A publica\u00e7\u00e3o no Boletim Oficial de Macau dos diplomas de delega\u00e7\u00e3o de compet\u00eancias do Governador nos Secret\u00e1rios-Adjuntos dispensa a men\u00e7\u00e3o referida na al\u00ednea b) do n.\u00ba 1."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O I Validade do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 114.\u00ba",
+        "Ementa": "(Dever de fundamenta\u00e7\u00e3o)",
+        "Numero": [
+            "1. Para al\u00e9m dos casos em que a lei especialmente o exija, devem ser fundamentados os actos administrativos que, total ou parcialmente:",
+            "a) Neguem, extingam, restrinjam ou afectem por qualquer modo direitos ou interesses legalmente protegidos, ou imponham ou agravem deveres, encargos ou san\u00e7\u00f5es;",
+            "b) Decidam reclama\u00e7\u00e3o ou recurso;",
+            "c) Decidam em contr\u00e1rio de pretens\u00e3o ou oposi\u00e7\u00e3o formulada por interessado;",
+            "d) Decidam em contr\u00e1rio de parecer, informa\u00e7\u00e3o ou proposta oficial;",
+            "e) Decidam de modo diferente da pr\u00e1tica habitualmente seguida na resolu\u00e7\u00e3o de casos semelhantes, ou na interpreta\u00e7\u00e3o e aplica\u00e7\u00e3o dos mesmos princ\u00edpios ou preceitos legais;",
+            "f) Impliquem revoga\u00e7\u00e3o, modifica\u00e7\u00e3o ou suspens\u00e3o de acto administrativo anterior.",
+            "2. Salvo disposi\u00e7\u00e3o legal em contr\u00e1rio, n\u00e3o carecem de ser fundamentados os actos de homologa\u00e7\u00e3o de delibera\u00e7\u00f5es tomadas por j\u00faris, bem como as ordens dadas pelos superiores hier\u00e1rquicos aos seus subalternos em mat\u00e9ria de servi\u00e7o e com a forma legal."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O I Validade do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 115.\u00ba",
+        "Ementa": "(Requisitos da fundamenta\u00e7\u00e3o)",
+        "Numero": [
+            "1. A fundamenta\u00e7\u00e3o deve ser expressa, atrav\u00e9s de sucinta exposi\u00e7\u00e3o dos fundamentos de facto e de direito da decis\u00e3o, podendo consistir em mera declara\u00e7\u00e3o de concord\u00e2ncia com os fundamentos de anteriores pareceres, informa\u00e7\u00f5es ou propostas que constituem neste caso parte integrante do respectivo acto.",
+            "2. Equivale \u00e0 falta de fundamenta\u00e7\u00e3o a adop\u00e7\u00e3o de fundamentos que, por obscuridade, contradi\u00e7\u00e3o ou insufici\u00eancia, n\u00e3o esclare\u00e7am concretamente a motiva\u00e7\u00e3o do acto.",
+            "3. Na resolu\u00e7\u00e3o de assuntos da mesma natureza, pode utilizar-se qualquer meio mec\u00e2nico que reproduza os fundamentos das decis\u00f5es, desde que tal n\u00e3o envolva diminui\u00e7\u00e3o das garantias dos administrados."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O I Validade do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 116.\u00ba",
+        "Ementa": "(Fundamenta\u00e7\u00e3o de actos orais)",
+        "Numero": [
+            "1. A fundamenta\u00e7\u00e3o dos actos orais abrangidos pelo n.\u00ba 1 do artigo 114.\u00ba que n\u00e3o constem de acta deve, a requerimento dos interessados e para efeito de impugna\u00e7\u00e3o, ser reduzida a escrito e comunicada integralmente \u00e0queles, no prazo de dez dias, atrav\u00e9s da expedi\u00e7\u00e3o de of\u00edcio sob registo do correio ou de entrega de notifica\u00e7\u00e3o pessoal, a cumprir no mesmo prazo.",
+            "2. O n\u00e3o exerc\u00edcio, pelos interessados, da faculdade conferida pelo n\u00famero anterior n\u00e3o prejudica os efeitos da eventual falta de fundamenta\u00e7\u00e3o do acto."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O I Validade do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 117.\u00ba",
+        "Ementa": "(Regra geral)",
+        "Numero": [
+            "1. O acto administrativo produz os seus efeitos desde a data em que for praticado, salvo nos casos em que a lei ou o pr\u00f3prio acto lhe atribuam efic\u00e1cia retroactiva ou diferida.",
+            "2. Para efeitos do disposto no n\u00famero anterior, o acto considera-se praticado logo que estejam preenchidos os seus elementos, n\u00e3o obstando \u00e0 perfei\u00e7\u00e3o do mesmo, para esse fim, qualquer motivo determinante de anulabilidade."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O II Efic\u00e1cia do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 118.\u00ba",
+        "Ementa": "(Efic\u00e1cia retroactiva)",
+        "Numero": [
+            "1. T\u00eam efic\u00e1cia retroactiva os actos administrativos:",
+            "a) Que se limitem a interpretar actos anteriores;",
+            "b) Que d\u00eaem execu\u00e7\u00e3o a decis\u00f5es dos tribunais, anulat\u00f3rias de actos administrativos, salvo tratando-se de actos renov\u00e1veis;",
+            "c) A que a lei atribua esse efeito.",
+            "2. Fora dos casos abrangidos pelo n\u00famero anterior, o autor do acto administrativo s\u00f3 pode atribuir-lhe efic\u00e1cia retroactiva:",
+            "a) Quando a retroactividade seja favor\u00e1vel para os interessados e n\u00e3o lese direitos ou interesses legalmente protegidos de terceiros, desde que \u00e0 data a que se pretende fazer remontar a efic\u00e1cia do acto j\u00e1 existissem os pressupostos justificativos da retroactividade;",
+            "b) Quando estejam em causa decis\u00f5es revogat\u00f3rias de actos administrativos tomadas por \u00f3rg\u00e3os ou agentes que os praticaram, na sequ\u00eancia de reclama\u00e7\u00e3o ou recurso hier\u00e1rquico;",
+            "c) Quando a lei o permitir."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O II Efic\u00e1cia do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 119.\u00ba",
+        "Ementa": "(Efic\u00e1cia diferida)",
+        "Numero": [
+            "a) Quando estiver sujeito a aprova\u00e7\u00e3o;",
+            "b) Quando os seus efeitos ficarem sujeitos a condi\u00e7\u00e3o ou termo suspensivos;",
+            "c) Quando os seus efeitos, pela natureza do acto ou por disposi\u00e7\u00e3o legal, dependerem da verifica\u00e7\u00e3o de qualquer requisito que n\u00e3o respeite \u00e0 validade do pr\u00f3prio acto."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O II Efic\u00e1cia do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 120.\u00ba",
+        "Ementa": "(Publicidade obrigat\u00f3ria)",
+        "Numero": [
+            "1. A publicidade dos actos administrativos s\u00f3 \u00e9 obrigat\u00f3ria quando exigida por lei.",
+            "2. A publica\u00e7\u00e3o dos actos administrativos referidos no n\u00famero anterior \u00e9 feita nas duas l\u00ednguas oficiais.",
+            "3. A falta de publicidade dos actos, quando legalmente exigida, implica a sua inefic\u00e1cia.",
+            "4. Quando a lei impuser a publica\u00e7\u00e3o do acto mas n\u00e3o regular os respectivos termos, deve a mesma ser feita no Boletim Oficial de Macau, no prazo de trinta dias, e conter todos os elementos referidos no n.\u00ba 1 do artigo 113.\u00ba, devendo, quando poss\u00edvel, os fundamentos da decis\u00e3o constar da publica\u00e7\u00e3o, ainda que por extracto."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O II Efic\u00e1cia do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 121.\u00ba",
+        "Ementa": "(Efic\u00e1cia dos actos constitutivos de deveres ou encargos)",
+        "Numero": [
+            "1. Os actos que constituam deveres ou encargos para os particulares e n\u00e3o estejam sujeitos a publica\u00e7\u00e3o come\u00e7am a produzir efeitos a partir da sua notifica\u00e7\u00e3o aos destinat\u00e1rios, ou de outra forma de conhecimento oficial pelos mesmos ou do come\u00e7o de execu\u00e7\u00e3o do acto.",
+            "2. Presume-se o conhecimento oficial sempre que o interessado intervenha no procedimento administrativo e a\u00ed revele perfeito conhecimento do conte\u00fado do acto."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O II Efic\u00e1cia do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 122.\u00ba",
+        "Ementa": "(Actos nulos)",
+        "Numero": [
+            "1. S\u00e3o nulos os actos a que falte qualquer dos elementos essenciais ou para os quais a lei comine expressamente essa forma de invalidade.",
+            "2. S\u00e3o, designadamente, actos nulos:",
+            "a) Os actos viciados de usurpa\u00e7\u00e3o de poder;",
+            "b) Os actos estranhos \u00e0s atribui\u00e7\u00f5es da pessoa colectiva em que o seu autor se integre;",
+            "c) Os actos cujo objecto seja imposs\u00edvel, inintelig\u00edvel ou constitua um crime;",
+            "d) Os actos que ofendam o conte\u00fado essencial de um direito fundamental;",
+            "e) Os actos praticados sob coac\u00e7\u00e3o;",
+            "f) Os actos que care\u00e7am em absoluto de forma legal;",
+            "g) As delibera\u00e7\u00f5es dos \u00f3rg\u00e3os colegiais que forem tomadas tumultuosamente ou com inobserv\u00e2ncia do qu\u00f3rum ou da maioria legalmente exigidos;",
+            "h) Os actos que ofendam os casos julgados;",
+            "i) Os actos consequentes de actos administrativos anteriormente anulados ou revogados, desde que n\u00e3o haja contra-interessados com interesse leg\u00edtimo na manuten\u00e7\u00e3o do acto consequente."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O III Invalidade do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 123.\u00ba",
+        "Ementa": "(Regime da nulidade)",
+        "Numero": [
+            "1. O acto nulo n\u00e3o produz quaisquer efeitos jur\u00eddicos, independentemente da declara\u00e7\u00e3o de nulidade.",
+            "2. A nulidade \u00e9 invoc\u00e1vel a todo o tempo por qualquer interessado e pode ser declarada, tamb\u00e9m a todo o tempo, por qualquer \u00f3rg\u00e3o administrativo ou por qualquer tribunal.",
+            "3. O disposto nos n\u00fameros anteriores n\u00e3o prejudica a possibilidade de atribui\u00e7\u00e3o de certos efeitos jur\u00eddicos a situa\u00e7\u00f5es de facto decorrentes de actos nulos, por for\u00e7a do simples decurso do tempo, de harmonia com os princ\u00edpios gerais de direito."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O III Invalidade do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 124.\u00ba",
+        "Ementa": "(Actos anul\u00e1veis)",
+        "Numero": [
+            "S\u00e3o anul\u00e1veis os actos administrativos praticados com ofensa dos princ\u00edpios ou normas jur\u00eddicas aplic\u00e1veis para cuja viola\u00e7\u00e3o se n\u00e3o preveja outra san\u00e7\u00e3o."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O III Invalidade do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 125.\u00ba",
+        "Ementa": "(Regime da anulabilidade)",
+        "Numero": [
+            "1. O acto anul\u00e1vel pode ser revogado nos termos previstos no artigo 130.\u00ba",
+            "2. O acto anul\u00e1vel \u00e9 suscept\u00edvel de recurso para os tribunais, nos termos da legisla\u00e7\u00e3o reguladora do contencioso administrativo."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O III Invalidade do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 126.\u00ba",
+        "Ementa": "(Ratifica\u00e7\u00e3o, reforma e convers\u00e3o)",
+        "Numero": [
+            "1. N\u00e3o s\u00e3o suscept\u00edveis de ratifica\u00e7\u00e3o, reforma e convers\u00e3o os actos nulos.",
+            "2. S\u00e3o aplic\u00e1veis \u00e0 ratifica\u00e7\u00e3o, reforma e convers\u00e3o dos actos anul\u00e1veis as normas que regulam a compet\u00eancia para a revoga\u00e7\u00e3o dos actos inv\u00e1lidos e a sua tempestividade.",
+            "3. Em caso de incompet\u00eancia, o poder de ratificar o acto cabe ao \u00f3rg\u00e3o competente para a sua pr\u00e1tica.",
+            "4. Desde que n\u00e3o tenha havido altera\u00e7\u00e3o ao regime legal, a ratifica\u00e7\u00e3o, reforma e convers\u00e3o retroagem os seus efeitos \u00e0 data dos actos a que respeitam."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O III Invalidade do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 127.\u00ba",
+        "Ementa": "(Iniciativa da revoga\u00e7\u00e3o)",
+        "Numero": [
+            "Os actos administrativos podem ser revogados por iniciativa dos \u00f3rg\u00e3os competentes, ou a pedido dos interessados, mediante reclama\u00e7\u00e3o ou recurso administrativo."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O IV Revoga\u00e7\u00e3o do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 128.\u00ba",
+        "Ementa": "(Actos insuscept\u00edveis de revoga\u00e7\u00e3o)",
+        "Numero": [
+            "1. N\u00e3o s\u00e3o suscept\u00edveis de revoga\u00e7\u00e3o:",
+            "a) Os actos nulos;",
+            "b) Os actos anulados contenciosamente;",
+            "c) Os actos revogados com efic\u00e1cia retroactiva.",
+            "2. Podem ser objecto de revoga\u00e7\u00e3o com efic\u00e1cia retroactiva os actos cujos efeitos tenham caducado ou se encontrem esgotados."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O IV Revoga\u00e7\u00e3o do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 129.\u00ba",
+        "Ementa": "(Revogabilidade dos actos v\u00e1lidos)",
+        "Numero": [
+            "1. Os actos administrativos que sejam v\u00e1lidos s\u00e3o livremente revog\u00e1veis, excepto nos casos seguintes:",
+            "a) Quando a sua irrevogabilidade resultar de vincula\u00e7\u00e3o legal;",
+            "b) Quando forem constitutivos de direitos ou de interesses legalmente protegidos;",
+            "c) Quando deles resultem, para a Administra\u00e7\u00e3o, obriga\u00e7\u00f5es legais ou direitos irrenunci\u00e1veis.",
+            "2. Os actos constitutivos de direitos ou interesses legalmente protegidos s\u00e3o, contudo, revog\u00e1veis:",
+            "a) Na parte em que sejam desfavor\u00e1veis aos interesses dos seus destinat\u00e1rios;",
+            "b) Quando todos os interessados d\u00eaem a sua concord\u00e2ncia \u00e0 revoga\u00e7\u00e3o do acto e n\u00e3o se trate de direitos ou interesses indispon\u00edveis."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O IV Revoga\u00e7\u00e3o do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 130.\u00ba",
+        "Ementa": "(Revogabilidade dos actos anul\u00e1veis)",
+        "Numero": [
+            "1. Os actos administrativos anul\u00e1veis s\u00f3 podem ser revogados com fundamento na sua invalidade e dentro do prazo do respectivo recurso contencioso ou at\u00e9 \u00e0 resposta da entidade recorrida.",
+            "2. Se houver prazos diferentes para o recurso contencioso atende-se ao que terminar em \u00faltimo lugar."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O IV Revoga\u00e7\u00e3o do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 131.\u00ba",
+        "Ementa": "(Compet\u00eancia para a revoga\u00e7\u00e3o)",
+        "Numero": [
+            "1. Salvo disposi\u00e7\u00e3o especial, s\u00e3o competentes para a revoga\u00e7\u00e3o dos actos administrativos, al\u00e9m dos seus autores, os respectivos superiores hier\u00e1rquicos, desde que n\u00e3o se trate de acto da compet\u00eancia exclusiva do subalterno.",
+            "2. Os actos administrativos praticados por delega\u00e7\u00e3o ou subdelega\u00e7\u00e3o de poderes podem ser revogados pelo \u00f3rg\u00e3o delegante ou subdelegante, bem como pelo delegado ou subdelegado enquanto vigorar a delega\u00e7\u00e3o ou subdelega\u00e7\u00e3o.",
+            "3. Os actos administrativos praticados por \u00f3rg\u00e3os sujeitos a tutela administrativa s\u00f3 podem ser revogados pelos \u00f3rg\u00e3os tutelares nos casos expressamente permitidos por lei."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O IV Revoga\u00e7\u00e3o do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 132.\u00ba",
+        "Ementa": "(Forma dos actos de revoga\u00e7\u00e3o)",
+        "Numero": [
+            "1. O acto de revoga\u00e7\u00e3o, salvo disposi\u00e7\u00e3o especial, deve revestir a forma legalmente prescrita para o acto revogado.",
+            "2. No entanto, deve o acto de revoga\u00e7\u00e3o revestir a mesma forma que tiver sido utilizada na pr\u00e1tica do acto revogado quando a lei n\u00e3o estabelecer forma alguma para este, ou quando o acto revogado tiver revestido forma mais solene que a legalmente prevista.",
+            "3. S\u00e3o de observar na revoga\u00e7\u00e3o as formalidades exigidas para a pr\u00e1tica do acto revogado, salvo quando a lei disponha de forma diferente."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O IV Revoga\u00e7\u00e3o do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 133.\u00ba",
+        "Ementa": "(Efic\u00e1cia da revoga\u00e7\u00e3o)",
+        "Numero": [
+            "1. A revoga\u00e7\u00e3o de actos administrativos apenas produz efeitos para o futuro, salvo o disposto nos n\u00fameros seguintes.",
+            "2. A revoga\u00e7\u00e3o tem efeito retroactivo quando se fundamente na invalidade do acto revogado.",
+            "3. O autor da revoga\u00e7\u00e3o pode, no pr\u00f3prio acto, atribuir-lhe efeito retroactivo:",
+            "a) Quando este seja favor\u00e1vel aos interessados;",
+            "b) Quando todos os interessados tenham concordado expressamente com a retroactividade dos efeitos e estes n\u00e3o respeitem a direitos ou interesses indispon\u00edveis."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O IV Revoga\u00e7\u00e3o do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 134.\u00ba",
+        "Ementa": "(Efeitos repristinat\u00f3rios da revoga\u00e7\u00e3o)",
+        "Numero": [
+            "A revoga\u00e7\u00e3o de um acto revogat\u00f3rio s\u00f3 produz efeitos repristinat\u00f3rios se a lei ou acto de revoga\u00e7\u00e3o o determinarem expressamente."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O IV Revoga\u00e7\u00e3o do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 135.\u00ba",
+        "Ementa": "(Rectifica\u00e7\u00e3o dos actos administrativos)",
+        "Numero": [
+            "1. Os erros de c\u00e1lculo e os erros materiais na express\u00e3o da vontade do \u00f3rg\u00e3o administrativo, quando manifestos, podem ser rectificados, a todo o tempo, pelos \u00f3rg\u00e3os competentes para a revoga\u00e7\u00e3o do acto.",
+            "2. A rectifica\u00e7\u00e3o pode ter lugar por iniciativa dos \u00f3rg\u00e3os competentes ou a pedido dos interessados, tem efeitos retroactivos e deve ser feita sob a forma e com a publicidade usadas para a pr\u00e1tica do acto rectificado."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O IV Revoga\u00e7\u00e3o do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 136.\u00ba",
+        "Ementa": "(Executoriedade)",
+        "Numero": [
+            "1. Os actos administrativos s\u00e3o execut\u00f3rios logo que eficazes.",
+            "2. O cumprimento das obriga\u00e7\u00f5es e o respeito pelas limita\u00e7\u00f5es que derivam de um acto administrativo podem ser impostos coercivamente pela Administra\u00e7\u00e3o sem recurso pr\u00e9vio aos tribunais, desde que a imposi\u00e7\u00e3o seja feita pelas formas e nos termos admitidos por lei.",
+            "3. O cumprimento das obriga\u00e7\u00f5es pecuni\u00e1rias resultantes de actos administrativos pode ser exigido pela Administra\u00e7\u00e3o, nos termos do artigo 142.\u00ba"
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O V Execu\u00e7\u00e3o do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 137.\u00ba",
+        "Ementa": "(Actos n\u00e3o execut\u00f3rios)",
+        "Numero": [
+            "1. N\u00e3o s\u00e3o execut\u00f3rios:",
+            "a) Os actos cuja efic\u00e1cia esteja suspensa;",
+            "b) Os actos de que tenha sido interposto recurso com efeito suspensivo;",
+            "c) Os actos sujeitos a aprova\u00e7\u00e3o;",
+            "d) Os actos confirmativos de actos execut\u00f3rios.",
+            "2. A efic\u00e1cia dos actos administrativos pode ser suspensa pelos \u00f3rg\u00e3os competentes para a sua revoga\u00e7\u00e3o e pelos \u00f3rg\u00e3os tutelares a quem a lei conceda esse poder, bem como pelos tribunais competentes nos termos da legisla\u00e7\u00e3o do contencioso administrativo."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O V Execu\u00e7\u00e3o do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 138.\u00ba",
+        "Ementa": "(Legalidade da execu\u00e7\u00e3o)",
+        "Numero": [
+            "1. Salvo em estado de necessidade, os \u00f3rg\u00e3os da Administra\u00e7\u00e3o P\u00fablica n\u00e3o podem praticar nenhum acto ou opera\u00e7\u00e3o material de que resulte limita\u00e7\u00e3o de direitos subjectivos ou interesses legalmente protegidos dos particulares, sem terem praticado previamente o acto administrativo que legitime tal actua\u00e7\u00e3o.",
+            "2. Na execu\u00e7\u00e3o dos actos administrativos devem, na medida do poss\u00edvel, ser utilizados os meios que, garantindo a realiza\u00e7\u00e3o integral dos seus objectivos, envolvam menor preju\u00edzo para os direitos e interesses dos particulares.",
+            "3. Os interessados podem impugnar administrativa e contenciosamente os actos ou opera\u00e7\u00f5es de execu\u00e7\u00e3o que excedam os limites do acto exequendo.",
+            "4. S\u00e3o tamb\u00e9m suscept\u00edveis de recurso contencioso os actos ou opera\u00e7\u00f5es de execu\u00e7\u00e3o arguidos de ilegalidade, desde que esta n\u00e3o seja consequ\u00eancia da ilegalidade do acto exequendo."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O V Execu\u00e7\u00e3o do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 139.\u00ba",
+        "Ementa": "(Notifica\u00e7\u00e3o da execu\u00e7\u00e3o)",
+        "Numero": [
+            "1. A decis\u00e3o de proceder \u00e0 execu\u00e7\u00e3o administrativa \u00e9 sempre notificada ao seu destinat\u00e1rio antes de se iniciar a execu\u00e7\u00e3o.",
+            "2. O \u00f3rg\u00e3o administrativo pode fazer a notifica\u00e7\u00e3o da execu\u00e7\u00e3o conjuntamente com a notifica\u00e7\u00e3o do acto definitivo e execut\u00f3rio.",
+            "3. Da notifica\u00e7\u00e3o devem constar as comina\u00e7\u00f5es em que o notificando incorre em caso de incumprimento de ordem que lhe seja transmitido atrav\u00e9s da notifica\u00e7\u00e3o."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O V Execu\u00e7\u00e3o do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 140.\u00ba",
+        "Ementa": "(Proibi\u00e7\u00e3o de embargos)",
+        "Numero": [
+            "N\u00e3o s\u00e3o admitidos embargos, administrativos ou judiciais, em rela\u00e7\u00e3o \u00e0 execu\u00e7\u00e3o coerciva dos actos administrativos, sem preju\u00edzo do disposto na lei em mat\u00e9ria de suspens\u00e3o da efic\u00e1cia dos actos."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O V Execu\u00e7\u00e3o do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 141.\u00ba",
+        "Ementa": "(Fins da execu\u00e7\u00e3o)",
+        "Numero": [
+            "A execu\u00e7\u00e3o pode ter por fim o pagamento de quantia certa, a entrega de coisa certa ou a presta\u00e7\u00e3o de um facto."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O V Execu\u00e7\u00e3o do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 142.\u00ba",
+        "Ementa": "(Execu\u00e7\u00e3o para pagamento de quantia certa)",
+        "Numero": [
+            "1. Quando por for\u00e7a de um acto administrativo devam ser pagas a uma pessoa colectiva p\u00fablica, ou por ordem desta, presta\u00e7\u00f5es pecuni\u00e1rias, segue-se, na falta de pagamento volunt\u00e1rio no prazo fixado, o processo de execu\u00e7\u00e3o fiscal.",
+            "2. Para o efeito, o \u00f3rg\u00e3o administrativo competente emite nos termos legais uma certid\u00e3o, com valor de t\u00edtulo executivo, que remete, juntamente com o processo administrativo, \u00e0 Direc\u00e7\u00e3o dos Servi\u00e7os de Finan\u00e7as.",
+            "3. Segue-se o processo indicado no n.\u00ba 1 quando, na execu\u00e7\u00e3o de actos fung\u00edveis, estes forem realizados por pessoa diversa do obrigado.",
+            "4. No caso previsto no n\u00famero anterior, a Administra\u00e7\u00e3o opta por realizar directamente os actos de execu\u00e7\u00e3o ou por encarregar terceiro de os praticar, ficando todas as despesas, incluindo indemniza\u00e7\u00f5es e san\u00e7\u00f5es pecuni\u00e1rias, por conta do obrigado."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O V Execu\u00e7\u00e3o do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 143.\u00ba",
+        "Ementa": "(Execu\u00e7\u00e3o para entrega de coisa certa)",
+        "Numero": [
+            "Se o obrigado n\u00e3o fizer a entrega da coisa que a Administra\u00e7\u00e3o devia receber, o \u00f3rg\u00e3o competente procede \u00e0s dilig\u00eancias que forem necess\u00e1rias para tomar posse administrativa da coisa devida."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O V Execu\u00e7\u00e3o do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 144.\u00ba",
+        "Ementa": "(Execu\u00e7\u00e3o para presta\u00e7\u00e3o de facto)",
+        "Numero": [
+            "1. No caso de execu\u00e7\u00e3o para presta\u00e7\u00e3o de facto fung\u00edvel, a Administra\u00e7\u00e3o notifica o obrigado para que proceda \u00e0 pr\u00e1tica do acto devido, fixando um prazo razo\u00e1vel para o seu cumprimento.",
+            "2. Se o obrigado n\u00e3o cumprir dentro do prazo fixado, a Administra\u00e7\u00e3o opta por realizar a execu\u00e7\u00e3o directamente ou por interm\u00e9dio de terceiro, ficando neste caso todas as despesas, incluindo indemniza\u00e7\u00f5es e san\u00e7\u00f5es pecuni\u00e1rias, por conta do obrigado.",
+            "3. As obriga\u00e7\u00f5es positivas de presta\u00e7\u00e3o de facto infung\u00edvel s\u00f3 podem ser objecto de coac\u00e7\u00e3o directa sobre os indiv\u00edduos obrigados nos casos expressamente previstos na lei, e sempre com observ\u00e2ncia dos direitos fundamentais dos cidad\u00e3os e do respeito da pessoa humana."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO II Acto administrativo SEC\u00c7\u00c3O V Execu\u00e7\u00e3o do acto administrativo"
+    },
+    {
+        "Artigo": "Artigo 145.\u00ba",
+        "Ementa": "(Princ\u00edpio geral)",
+        "Numero": [
+            "1. Os particulares t\u00eam o direito de solicitar a revoga\u00e7\u00e3o ou a modifica\u00e7\u00e3o dos actos administrativos, nos termos regulados neste C\u00f3digo.",
+            "2. O direito reconhecido no n\u00famero anterior pode ser exercido, consoante os casos:",
+            "a) Mediante reclama\u00e7\u00e3o para o autor do acto;",
+            "b) Mediante recurso para o superior hier\u00e1rquico do autor do acto, para o \u00f3rg\u00e3o colegial de que este seja membro, ou para o delegante ou subdelegante;",
+            "c) Mediante recurso para o \u00f3rg\u00e3o que exer\u00e7a poderes de tutela ou de superintend\u00eancia sobre o autor do acto."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O I Generalidades"
+    },
+    {
+        "Artigo": "Artigo 146.\u00ba",
+        "Ementa": "(Fundamentos da impugna\u00e7\u00e3o)",
+        "Numero": [
+            "Salvo disposi\u00e7\u00e3o em contr\u00e1rio, as reclama\u00e7\u00f5es e os recursos podem ter por fundamento a ilegalidade ou a inconveni\u00eancia do acto administrativo impugnado."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O I Generalidades"
+    },
+    {
+        "Artigo": "Artigo 147.\u00ba",
+        "Ementa": "(Legitimidade)",
+        "Numero": [
+            "1. T\u00eam legitimidade para reclamar ou recorrer os titulares de direitos subjectivos ou interesses legalmente protegidos que se considerem lesados pelo acto administrativo.",
+            "2. \u00c9 aplic\u00e1vel \u00e0 reclama\u00e7\u00e3o e aos recursos administrativos o disposto nos n.os 2 e 3 do artigo 55.\u00ba",
+            "3. N\u00e3o podem reclamar nem recorrer aqueles que, sem reserva, tenham aceitado, expressa ou tacitamente, um acto administrativo depois de praticado."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O I Generalidades"
+    },
+    {
+        "Artigo": "Artigo 148.\u00ba",
+        "Ementa": "(Princ\u00edpio geral)",
+        "Numero": [
+            "1. Pode reclamar-se de qualquer acto administrativo, salvo disposi\u00e7\u00e3o legal em contr\u00e1rio.",
+            "2. N\u00e3o \u00e9 poss\u00edvel reclamar de acto que decida anterior reclama\u00e7\u00e3o ou recurso administrativo, salvo com fundamento em omiss\u00e3o de pron\u00fancia."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O II Reclama\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 149.\u00ba",
+        "Ementa": "(Prazo da reclama\u00e7\u00e3o)",
+        "Numero": [
+            "a) Da publica\u00e7\u00e3o do acto no Boletim Oficial de Macau, quando a mesma seja obrigat\u00f3ria;",
+            "b) Da notifica\u00e7\u00e3o do acto, quando esta se tenha efectuado, se a publica\u00e7\u00e3o n\u00e3o for obrigat\u00f3ria;",
+            "c) Da data em que o interessado tiver conhecimento do acto, nos restantes casos."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O II Reclama\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 150.\u00ba",
+        "Ementa": "(Efeitos da reclama\u00e7\u00e3o)",
+        "Numero": [
+            "1. A reclama\u00e7\u00e3o de acto de que n\u00e3o caiba recurso contencioso tem efeito suspensivo, salvo nos casos em que a lei disponha o contr\u00e1rio ou quando o autor do acto considere que a sua n\u00e3o execu\u00e7\u00e3o imediata causa grave preju\u00edzo ao interesse p\u00fablico.",
+            "2. A reclama\u00e7\u00e3o de acto de que caiba recurso contencioso n\u00e3o tem efeito suspensivo, salvo nos casos em que a lei disponha o contr\u00e1rio ou quando o autor do acto, oficiosamente ou a pedido dos interessados, considere que a execu\u00e7\u00e3o imediata do acto causa preju\u00edzos irrepar\u00e1veis ou de dif\u00edcil repara\u00e7\u00e3o ao seu destinat\u00e1rio.",
+            "3. A suspens\u00e3o da execu\u00e7\u00e3o a pedido dos interessados deve ser requerida \u00e0 entidade competente para decidir no prazo de cinco dias a contar da data em que o processo lhe for apresentado.",
+            "4. Na aprecia\u00e7\u00e3o do pedido deve verificar-se se as provas revelam uma probabilidade s\u00e9ria de veracidade dos factos alegados pelos interessados, devendo decretar-se, em caso afirmativo, a suspens\u00e3o da efic\u00e1cia.",
+            "5. O disposto nos n\u00fameros anteriores n\u00e3o prejudica o pedido de suspens\u00e3o de efic\u00e1cia perante os tribunais administrativos, nos termos da legisla\u00e7\u00e3o aplic\u00e1vel."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O II Reclama\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 151.\u00ba",
+        "Ementa": "(Prazos de recurso)",
+        "Numero": [
+            "1. A reclama\u00e7\u00e3o de actos insuscept\u00edveis de recurso contencioso suspende o prazo de interposi\u00e7\u00e3o do recurso hier\u00e1rquico necess\u00e1rio.",
+            "2. A reclama\u00e7\u00e3o dos demais actos n\u00e3o suspende nem interrompe os prazos de recurso."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O II Reclama\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 152.\u00ba",
+        "Ementa": "(Prazo para a decis\u00e3o)",
+        "Numero": [
+            "O prazo para o \u00f3rg\u00e3o competente apreciar e decidir a reclama\u00e7\u00e3o \u00e9 de quinze dias."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O II Reclama\u00e7\u00e3o"
+    },
+    {
+        "Artigo": "Artigo 153.\u00ba",
+        "Ementa": "(Objecto)",
+        "Numero": [
+            "Podem ser objecto de recurso hier\u00e1rquico todos os actos administrativos praticados por \u00f3rg\u00e3os sujeitos aos poderes hier\u00e1rquicos de outros \u00f3rg\u00e3os, desde que a lei n\u00e3o exclua tal possibilidade."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O III Recurso hier\u00e1rquico"
+    },
+    {
+        "Artigo": "Artigo 154.\u00ba",
+        "Ementa": "(Esp\u00e9cies e \u00e2mbito)",
+        "Numero": [
+            "1. O recurso hier\u00e1rquico \u00e9 necess\u00e1rio ou facultativo, consoante o acto a impugnar seja ou n\u00e3o insuscept\u00edvel de recurso contencioso.",
+            "2. Ainda que o acto de que se interp\u00f5e recurso hier\u00e1rquico seja suscept\u00edvel de recurso contencioso, tanto a ilegalidade como a inconveni\u00eancia do acto podem ser apreciados naquele."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O III Recurso hier\u00e1rquico"
+    },
+    {
+        "Artigo": "Artigo 155.\u00ba",
+        "Ementa": "(Prazos de interposi\u00e7\u00e3o)",
+        "Numero": [
+            "1. Sempre que a lei n\u00e3o estabele\u00e7a prazo diferente, \u00e9 de trinta dias o prazo para a interposi\u00e7\u00e3o do recurso hier\u00e1rquico necess\u00e1rio.",
+            "2. O recurso hier\u00e1rquico facultativo deve ser interposto dentro do prazo estabelecido para interposi\u00e7\u00e3o de recurso contencioso do acto em causa."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O III Recurso hier\u00e1rquico"
+    },
+    {
+        "Artigo": "Artigo 156.\u00ba",
+        "Ementa": "(Interposi\u00e7\u00e3o)",
+        "Numero": [
+            "1. O recurso hier\u00e1rquico interp\u00f5e-se por meio de requerimento no qual o recorrente deve expor todos os fundamentos do recurso, podendo juntar os documentos que considere convenientes.",
+            "2. O recurso \u00e9 dirigido ao mais elevado superior hier\u00e1rquico do autor do acto, salvo se a compet\u00eancia para a decis\u00e3o se encontrar delegada ou subdelegada.",
+            "3. O requerimento de interposi\u00e7\u00e3o do recurso pode ser apresentado ao autor do acto ou \u00e0 autoridade a quem seja dirigido."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O III Recurso hier\u00e1rquico"
+    },
+    {
+        "Artigo": "Artigo 157.\u00ba",
+        "Ementa": "(Efeitos)",
+        "Numero": [
+            "1. O recurso hier\u00e1rquico necess\u00e1rio suspende a efic\u00e1cia do acto recorrido, salvo nos casos em que a lei disponha em contr\u00e1rio ou quando o autor do acto considere que a sua n\u00e3o execu\u00e7\u00e3o imediata causa grave preju\u00edzo ao interesse p\u00fablico.",
+            "2. O \u00f3rg\u00e3o competente para apreciar o recurso pode revogar a decis\u00e3o a que se refere o n\u00famero anterior, ou tom\u00e1-la quando o autor do acto o n\u00e3o tenha feito.",
+            "3. O recurso hier\u00e1rquico facultativo n\u00e3o suspende a efic\u00e1cia do acto recorrido."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O III Recurso hier\u00e1rquico"
+    },
+    {
+        "Artigo": "Artigo 158.\u00ba",
+        "Ementa": "(Notifica\u00e7\u00e3o dos contra-interessados)",
+        "Numero": [
+            "Interposto o recurso, o \u00f3rg\u00e3o competente para dele conhecer deve notificar aqueles que possam ser prejudicados pela sua proced\u00eancia para alegarem, no prazo de quinze dias, o que tiverem por conveniente sobre o pedido e os seus fundamentos."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O III Recurso hier\u00e1rquico"
+    },
+    {
+        "Artigo": "Artigo 159.\u00ba",
+        "Ementa": "(Interven\u00e7\u00e3o do autor do acto)",
+        "Numero": [
+            "1. Ap\u00f3s a notifica\u00e7\u00e3o a que se refere o artigo anterior ou, se a ela n\u00e3o houver lugar, logo que interposto o recurso, come\u00e7a a correr um prazo de quinze dias dentro do qual o autor do acto recorrido se deve pronunciar sobre o recurso e remet\u00ea-lo ao \u00f3rg\u00e3o competente para dele conhecer, notificando o recorrente da remessa do processo.",
+            "2. Quando os contra-interessados n\u00e3o hajam deduzido oposi\u00e7\u00e3o e os elementos constantes do procedimento demonstrem suficientemente a proced\u00eancia do recurso, pode o autor do acto recorrido revogar, modificar ou substituir o acto de acordo com o pedido do recorrente, informando da sua decis\u00e3o o \u00f3rg\u00e3o competente para conhecer do recurso."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O III Recurso hier\u00e1rquico"
+    },
+    {
+        "Artigo": "Artigo 160.\u00ba",
+        "Ementa": "(Rejei\u00e7\u00e3o do recurso)",
+        "Numero": [
+            "a) Quando haja sido interposto para \u00f3rg\u00e3o incompetente;",
+            "b) Quando o acto impugnado n\u00e3o seja suscept\u00edvel de recurso;",
+            "c) Quando o recorrente care\u00e7a de legitimidade;",
+            "d) Quando o recurso haja sido interposto fora do prazo;",
+            "e) Quando ocorra qualquer outra causa que obste ao conhecimento do recurso."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O III Recurso hier\u00e1rquico"
+    },
+    {
+        "Artigo": "Artigo 161.\u00ba",
+        "Ementa": "(Decis\u00e3o)",
+        "Numero": [
+            "1. O \u00f3rg\u00e3o competente para conhecer do recurso pode, sem sujei\u00e7\u00e3o ao pedido do recorrente, salvas as excep\u00e7\u00f5es previstas na lei, confirmar ou revogar o acto recorrido; se a compet\u00eancia do autor do acto recorrido n\u00e3o for exclusiva, pode tamb\u00e9m modific\u00e1-lo ou substitu\u00ed-lo.",
+            "2. O \u00f3rg\u00e3o competente para decidir o recurso pode, se for caso disso, anular, no todo ou em parte, o procedimento administrativo e determinar a realiza\u00e7\u00e3o de nova instru\u00e7\u00e3o ou de dilig\u00eancias complementares."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O III Recurso hier\u00e1rquico"
+    },
+    {
+        "Artigo": "Artigo 162.\u00ba",
+        "Ementa": "(Prazo para a decis\u00e3o)",
+        "Numero": [
+            "1. Quando a lei n\u00e3o fixe prazo diferente, o recurso hier\u00e1rquico deve ser decidido no prazo de trinta dias contado a partir da remessa do processo ao \u00f3rg\u00e3o competente para dele conhecer.",
+            "2. O prazo referido no n\u00famero anterior \u00e9 elevado at\u00e9 ao m\u00e1ximo de noventa dias quando haja lugar \u00e0 realiza\u00e7\u00e3o de nova instru\u00e7\u00e3o ou de dilig\u00eancias complementares.",
+            "3. Decorridos os prazos referidos nos n\u00fameros anteriores sem que haja sido tomada uma decis\u00e3o, considera-se o recurso tacitamente indeferido."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O III Recurso hier\u00e1rquico"
+    },
+    {
+        "Artigo": "Artigo 163.\u00ba",
+        "Ementa": "(Recurso hier\u00e1rquico impr\u00f3prio)",
+        "Numero": [
+            "1. Considera-se impr\u00f3prio o recurso hier\u00e1rquico interposto para um \u00f3rg\u00e3o que exer\u00e7a poder de supervis\u00e3o sobre outro \u00f3rg\u00e3o da mesma pessoa colectiva, fora do \u00e2mbito da hierarquia administrativa.",
+            "2. Nos casos expressamente previstos na lei, tamb\u00e9m cabe recurso hier\u00e1rquico impr\u00f3prio para os \u00f3rg\u00e3os colegiais em rela\u00e7\u00e3o aos actos administrativos praticados por qualquer dos seus membros.",
+            "3. S\u00e3o aplic\u00e1veis ao recurso hier\u00e1rquico impr\u00f3prio, com as necess\u00e1rias adapta\u00e7\u00f5es, as disposi\u00e7\u00f5es reguladoras do recurso hier\u00e1rquico."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O IV Recurso hier\u00e1rquico impr\u00f3prio e recurso tutelar"
+    },
+    {
+        "Artigo": "Artigo 164.\u00ba",
+        "Ementa": "(Recurso tutelar)",
+        "Numero": [
+            "1. O recurso tutelar tem por objecto actos administrativos praticados por pessoas colectivas p\u00fablicas sujeitas a tutela ou superintend\u00eancia.",
+            "2. O recurso tutelar s\u00f3 existe nos casos expressamente previstos por lei e tem, salvo disposi\u00e7\u00e3o em contr\u00e1rio, car\u00e1cter facultativo.",
+            "3. O recurso tutelar s\u00f3 pode ter por fundamento a inconveni\u00eancia do acto recorrido nos casos em que a lei estabele\u00e7a uma tutela de m\u00e9rito.",
+            "4. A modifica\u00e7\u00e3o ou substitui\u00e7\u00e3o do acto recorrido s\u00f3 \u00e9 poss\u00edvel se a lei conferir poderes de tutela substitutiva e no \u00e2mbito destes.",
+            "5. Ao recurso tutelar s\u00e3o aplic\u00e1veis as disposi\u00e7\u00f5es reguladoras do recurso hier\u00e1rquico, na parte em que n\u00e3o contrariem a natureza pr\u00f3pria daquele e o respeito devido \u00e0 autonomia da entidade tutelada."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO III Reclama\u00e7\u00e3o e recursos administrativos SEC\u00c7\u00c3O IV Recurso hier\u00e1rquico impr\u00f3prio e recurso tutelar"
+    },
+    {
+        "Artigo": "Artigo 165.\u00ba",
+        "Ementa": "(Conceito de contrato administrativo)",
+        "Numero": [
+            "1. Diz-se contrato administrativo o acordo de vontades pelo qual \u00e9 constitu\u00edda, modificada ou extinta uma rela\u00e7\u00e3o jur\u00eddica administrativa.",
+            "2. S\u00e3o contratos administrativos, designadamente, os contratos de:",
+            "a) Empreitada de obras p\u00fablicas;",
+            "b) Concess\u00e3o de obras p\u00fablicas;",
+            "c) Concess\u00e3o de servi\u00e7os p\u00fablicos;",
+            "d) Concess\u00e3o de explora\u00e7\u00e3o de jogos de fortuna ou azar;",
+            "e) Fornecimento cont\u00ednuo;",
+            "f) Presta\u00e7\u00e3o de servi\u00e7os para fins de imediata utilidade p\u00fablica."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO IV Contrato administrativo"
+    },
+    {
+        "Artigo": "Artigo 166.\u00ba",
+        "Ementa": "(Utiliza\u00e7\u00e3o do contrato administrativo)",
+        "Numero": [
+            "Os \u00f3rg\u00e3os administrativos, na prossecu\u00e7\u00e3o das atribui\u00e7\u00f5es da pessoa colectiva em que se integram, podem celebrar contratos administrativos, salvo se outra coisa resultar da lei ou da natureza das rela\u00e7\u00f5es a estabelecer."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO IV Contrato administrativo"
+    },
+    {
+        "Artigo": "Artigo 167.\u00ba",
+        "Ementa": "(Poderes da Administra\u00e7\u00e3o)",
+        "Numero": [
+            "a) Modificar unilateralmente o conte\u00fado das presta\u00e7\u00f5es, desde que seja respeitado o objecto do contrato e o seu equil\u00edbrio financeiro;",
+            "b) Dirigir o modo de execu\u00e7\u00e3o das presta\u00e7\u00f5es;",
+            "c) Rescindir unilateralmente os contratos por imperativo de interesse p\u00fablico devidamente fundamentado, sem preju\u00edzo do pagamento de justa indemniza\u00e7\u00e3o;",
+            "d) Fiscalizar o modo de execu\u00e7\u00e3o do contrato;",
+            "e) Aplicar as san\u00e7\u00f5es previstas para a inexecu\u00e7\u00e3o do contrato."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO IV Contrato administrativo"
+    },
+    {
+        "Artigo": "Artigo 168.\u00ba",
+        "Ementa": "(Forma\u00e7\u00e3o do contrato)",
+        "Numero": [
+            "S\u00e3o aplic\u00e1veis \u00e0 forma\u00e7\u00e3o dos contratos administrativos, com as necess\u00e1rias adapta\u00e7\u00f5es, as disposi\u00e7\u00f5es deste C\u00f3digo relativas ao procedimento administrativo."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO IV Contrato administrativo"
+    },
+    {
+        "Artigo": "Artigo 169.\u00ba",
+        "Ementa": "(Escolha do co-contratante)",
+        "Numero": [
+            "1. Salvo regime especial, nos contratos que visem associar um particular ao desempenho regular de atribui\u00e7\u00f5es administrativas o co-contratante deve ser escolhido por concurso p\u00fablico, por concurso limitado ou por ajuste directo.",
+            "2. Ao concurso p\u00fablico devem ser admitidas todas as entidades que satisfa\u00e7am os requisitos gerais estabelecidos por lei.",
+            "3. Ao concurso limitado s\u00f3 podem ser admitidas as entidades que satisfa\u00e7am os requisitos especialmente fixados pela Administra\u00e7\u00e3o para cada caso ou que tenham sido convidadas para o efeito pelo contraente p\u00fablico.",
+            "4. O ajuste directo deve, em regra, ser precedido de consulta feita, pelo menos, a tr\u00eas entidades."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO IV Contrato administrativo"
+    },
+    {
+        "Artigo": "Artigo 170.\u00ba",
+        "Ementa": "(Obrigatoriedade de concurso p\u00fablico)",
+        "Numero": [
+            "1. Com ressalva do disposto nas normas que regulam a realiza\u00e7\u00e3o de despesas p\u00fablicas ou em legisla\u00e7\u00e3o especial, os contratos administrativos devem, em regra, ser precedidos de concurso p\u00fablico.",
+            "2. O concurso p\u00fablico pode ser dispensado nos casos seguintes:",
+            "a) Por decis\u00e3o devidamente fundamentada do \u00f3rg\u00e3o competente, se o valor do contrato for inferior ao limite fixado por lei;",
+            "b) Por proposta fundamentada do \u00f3rg\u00e3o competente, que mere\u00e7a a concord\u00e2ncia expressa do \u00f3rg\u00e3o superior da hierarquia ou do \u00f3rg\u00e3o de tutela, se o valor do contrato for superior \u00e0quele limite.",
+            "3. Se for dispensado o concurso p\u00fablico, deve ser realizado concurso limitado, salvo se este for tamb\u00e9m dispensado, devendo ent\u00e3o observar-se o disposto no n.\u00ba 4 do artigo anterior."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO IV Contrato administrativo"
+    },
+    {
+        "Artigo": "Artigo 171.\u00ba",
+        "Ementa": "(Forma dos contratos)",
+        "Numero": [
+            "Os contratos administrativos devem ser sempre celebrados por escrito, salvo se a lei estabelecer outra forma."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO IV Contrato administrativo"
+    },
+    {
+        "Artigo": "Artigo 172.\u00ba",
+        "Ementa": "(Regime de invalidade dos contratos)",
+        "Numero": [
+            "1. Os contratos administrativos s\u00e3o nulos ou anul\u00e1veis, nos termos do presente C\u00f3digo, quando forem nulos ou anul\u00e1veis os actos administrativos de que haja dependido a sua celebra\u00e7\u00e3o.",
+            "2. S\u00e3o aplic\u00e1veis a todos os contratos administrativos as disposi\u00e7\u00f5es do C\u00f3digo Civil relativas \u00e0 falta e v\u00edcios da vontade.",
+            "3. Sem preju\u00edzo do disposto no n.\u00ba 1, \u00e0 invalidade dos contratos administrativos aplicam-se os regimes seguintes:",
+            "a) Quanto aos contratos administrativos com objecto pass\u00edvel de acto administrativo, o regime de invalidade do acto administrativo estabelecido no presente C\u00f3digo;",
+            "b) Quanto aos contratos administrativos com objecto pass\u00edvel de contrato de direito privado, o regime de invalidade do neg\u00f3cio jur\u00eddico previsto no C\u00f3digo Civil."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO IV Contrato administrativo"
+    },
+    {
+        "Artigo": "Artigo 173.\u00ba",
+        "Ementa": "(Actos opinativos)",
+        "Numero": [
+            "1. Os actos administrativos que interpretem cl\u00e1usulas contratuais ou que se pronunciem sobre a respectiva validade n\u00e3o s\u00e3o definitivos e execut\u00f3rios, pelo que na falta de acordo do co-contratante, a Administra\u00e7\u00e3o s\u00f3 pode obter os efeitos pretendidos atrav\u00e9s de ac\u00e7\u00e3o a propor no tribunal competente.",
+            "2. O disposto no n\u00famero anterior n\u00e3o prejudica a aplica\u00e7\u00e3o das disposi\u00e7\u00f5es gerais da lei civil relativas aos contratos bilaterais, a menos que tais preceitos tenham sido afastados por vontade expressa dos contratantes."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO IV Contrato administrativo"
+    },
+    {
+        "Artigo": "Artigo 174.\u00ba",
+        "Ementa": "(Execu\u00e7\u00e3o for\u00e7ada das presta\u00e7\u00f5es)",
+        "Numero": [
+            "1. Salvo disposi\u00e7\u00e3o legal em contr\u00e1rio, a execu\u00e7\u00e3o for\u00e7ada das presta\u00e7\u00f5es contratuais em falta s\u00f3 pode ser obtida atrav\u00e9s dos tribunais administrativos.",
+            "2. *"
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO IV Contrato administrativo"
+    },
+    {
+        "Artigo": "Artigo 175.\u00ba",
+        "Ementa": "(Arbitragem volunt\u00e1ria)",
+        "Numero": [
+            "\u00c9 admiss\u00edvel o recurso \u00e0 arbitragem, nos termos da lei."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO IV Contrato administrativo"
+    },
+    {
+        "Artigo": "Artigo 176.\u00ba",
+        "Ementa": "(Legisla\u00e7\u00e3o subsidi\u00e1ria)",
+        "Numero": [
+            "Em tudo quanto n\u00e3o estiver expressamente regulado no presente C\u00f3digo, s\u00e3o aplic\u00e1veis aos contratos administrativos os princ\u00edpios gerais de direito administrativo e, com as necess\u00e1rias adapta\u00e7\u00f5es, as disposi\u00e7\u00f5es legais que regulam as despesas p\u00fablicas e as normas que regulam formas espec\u00edficas de contrata\u00e7\u00e3o p\u00fablica."
+        ],
+        "Titulo": "PARTE IV Actividade administrativa CAP\u00cdTULO IV Contrato administrativo"
+    }
+]
