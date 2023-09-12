@@ -1,34 +1,114 @@
 [
     {
         "Index": 1,
-        "CodigoName": "民事訴訟法典",
-        "CodigoJson": "http://minchi.hopto.org/json/CPC_chn.json",
-        "CodigoJson2": "https://minchipt.github.io/praestiJson/CPC_chn.json",
-        "DBName": "cpc_chn.db3",
+        "CodigoName": "澳門民法典",
+        "CodigoJson": "http://minchi.hopto.org/json/codigocivil_mo_chn.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/ codigocivil_mo_chn.json",
+        "DBName": "codigocivil_mo_chn.db3",
         "Version": 1
     },
     {
         "Index": 2,
-        "CodigoName": "Código do Processo Civil",
-        "CodigoJson": "http://minchi.hopto.org/json/CPC_prt.json",
-        "CodigoJson2": "https://minchipt.github.io/praestiJson/CPC_pot.json",
+        "CodigoName": "澳門刑法典",
+        "CodigoJson": "http://minchi.hopto.org/json/codigopenal_mo_chn.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/ codigopenal_mo_chn.json",
+        "DBName": " codigopenal_mo_chn.db3",
+        "Version": 1
+    },
+{
+        "Index": 3,
+        "CodigoName": "澳門商法典",
+        "CodigoJson": "http://minchi.hopto.org/json/codigocomercial_mo_chn.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/codigocomercial_mo_chn.json",
+        "DBName": "codigocomercial_mo_chn.db3",
+        "Version": 1
+    },
+{
+        "Index": 3,
+        "CodigoName": "澳門行政程序法典",
+        "CodigoJson": "http://minchi.hopto.org/json/cpa_mo_chn.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/cpa_mo_chn.json",
+        "DBName": "caadministrativo_mo_chn.db3",
+        "Version": 1
+    },
+    {
+        "Index":4,
+        "CodigoName": "澳門民事訴訟法典",
+        "CodigoJson": "http://minchi.hopto.org/json/cpc_mo_chn.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/cpc_mo_chn.json",
+        "DBName": "cpc_mo_chn.db3",
+        "Version": 1
+    },
+    {
+        "Index": 5,
+        "CodigoName": "澳門刑事訴訟法典",
+        "CodigoJson": "http://minchi.hopto.org/json/cpp_mo_chn.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/cpp_mo_chn.json",
+        "DBName": "cpp_mo_chn.db3",
+        "Version": 1
+    },
+    {
+        "Index": 6,
+        "CodigoName": "澳門行政訴訟法典",
+        "CodigoJson": "http://minchi.hopto.org/json/cac_mo_chn.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/cac_mo_chn.json",
+        "DBName": "cac_mo_chn.db3",
+        "Version": 1
+    },
+{
+        "Index": 7,
+        "CodigoName": "Código Civil de Macau",
+        "CodigoJson": "http://minchi.hopto.org/json/codigocivil_mo_prt.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/ codigocivil_mo_prt.json",
+        "DBName": " codigocivil_mo_prt.db3",
+        "Version": 1
+    },
+{f
+        "Index": 8,
+        "CodigoName": "Código Penal de Macau",
+        "CodigoJson": "http://minchi.hopto.org/json/codigopenal_mo_prt.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/codigopenal_mo _prt.json",
+        "DBName": "codigopenal_mo_prt.db3",
+        "Version": 1
+    },
+{
+        "Index": 9,
+        "CodigoName": "Código Comercial de Macau",
+        "CodigoJson": "http://minchi.hopto.org/json/codigocomercial_mo_prt.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/ codigocomercial_mo_prt.json",
+        "DBName": "codigocomercial_mo_prt.db3",
+        "Version": 1
+    },
+    {
+        "Index": 10,
+        "CodigoName": " Código do Procedimento Administrativo de Macau",
+        "CodigoJson": "http://minchi.hopto.org/json/cpa_mo_prt.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/cpa_mo_prt.json",
+        "DBName": "cpa_mo_prt.db3",
+        "Version": 1
+    },
+{
+        "Index": 11,
+        "CodigoName": "Código do Processo Civil de Macau",
+        "CodigoJson": "http://minchi.hopto.org/json/cpc_mo_prt.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/cpc_mo_prt.json",
         "DBName": "cpc_prt.db3",
         "Version": 1
     },
     {
-        "Index": 3,
-        "CodigoName": "刑事訴訟法典",
-        "CodigoJson": "http://minchi.hopto.org/json/CPP_chn.json",
-        "CodigoJson2": "https://minchipt.github.io/praestiJson/CPP_chn.json",
-        "DBName": "cpp_chn.db3",
+        "Index": 12,
+        "CodigoName": "Código do Processo Penal de Macau",
+        "CodigoJson": "http://minchi.hopto.org/json/cpp_mo_prt.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/cpp_mo_prt.json",
+        "DBName": "cpp_mo_prt.db3",
         "Version": 1
-    },
-    {
-        "Index": 4,
-        "CodigoName": "Código do Processo Penal",
-        "CodigoJson": "http://minchi.hopto.org/json/CPP_prt.json",
-        "CodigoJson2": "https://minchipt.github.io/praestiJson/CPP_prt.json",
-        "DBName": "cpp_prt.db3",
+    }
+{
+        "Index": 12,
+        "CodigoName": "Código de Processo Administrativo Contencioso de Macau",
+        "CodigoJson": "http://minchi.hopto.org/json/cpac_mo_prt.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/cpac _mo_prt.json",
+        "DBName": "cpac _mo_prt.db3",
         "Version": 1
     }
 ]
