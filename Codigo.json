@@ -3,7 +3,7 @@
         "Index": 1,
         "CodigoName": "澳門民法典",
         "CodigoJson": "http://minchi.hopto.org/json/codigocivil_mo_chn.json",
-        "CodigoJson2": "https://minchipt.github.io/praestiJson/ codigocivil_mo_chn.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/codigocivil_mo_chn.json",
         "DBName": "codigocivil_mo_chn.db3",
         "Version": 1
     },
@@ -11,7 +11,7 @@
         "Index": 2,
         "CodigoName": "澳門刑法典",
         "CodigoJson": "http://minchi.hopto.org/json/codigopenal_mo_chn.json",
-        "CodigoJson2": "https://minchipt.github.io/praestiJson/ codigopenal_mo_chn.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/codigopenal_mo_chn.json",
         "DBName": " codigopenal_mo_chn.db3",
         "Version": 1
     },
@@ -59,7 +59,7 @@
         "Index": 7,
         "CodigoName": "Código Civil de Macau",
         "CodigoJson": "http://minchi.hopto.org/json/codigocivil_mo_prt.json",
-        "CodigoJson2": "https://minchipt.github.io/praestiJson/ codigocivil_mo_prt.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/codigocivil_mo_prt.json",
         "DBName": " codigocivil_mo_prt.db3",
         "Version": 1
     },
@@ -67,7 +67,7 @@
         "Index": 8,
         "CodigoName": "Código Penal de Macau",
         "CodigoJson": "http://minchi.hopto.org/json/codigopenal_mo_prt.json",
-        "CodigoJson2": "https://minchipt.github.io/praestiJson/codigopenal_mo _prt.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/codigopenal_mo_prt.json",
         "DBName": "codigopenal_mo_prt.db3",
         "Version": 1
     },
@@ -75,7 +75,7 @@
         "Index": 9,
         "CodigoName": "Código Comercial de Macau",
         "CodigoJson": "http://minchi.hopto.org/json/codigocomercial_mo_prt.json",
-        "CodigoJson2": "https://minchipt.github.io/praestiJson/ codigocomercial_mo_prt.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/codigocomercial_mo_prt.json",
         "DBName": "codigocomercial_mo_prt.db3",
         "Version": 1
     },
@@ -107,7 +107,7 @@
         "Index": 12,
         "CodigoName": "Código de Processo Administrativo Contencioso de Macau",
         "CodigoJson": "http://minchi.hopto.org/json/cpac_mo_prt.json",
-        "CodigoJson2": "https://minchipt.github.io/praestiJson/cpac _mo_prt.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/cpac_mo_prt.json",
         "DBName": "cpac _mo_prt.db3",
         "Version": 1
     }
