@@ -1,0 +1,10 @@
+[
+    {
+        "Index": 1,
+        "CodigoName": "澳門民法典",
+        "CodigoJson": "http://minchi.hopto.org/json/codigocivil_mo_chn.json",
+        "CodigoJson2": "https://minchipt.github.io/praestiJson/codigocivil_mo_chn.json",
+        "DBName": "codigocivil_mo_chn.db3",
+        "Version": 1
+    }
+]
