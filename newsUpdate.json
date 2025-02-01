@@ -1,8 +1,18 @@
 [
     {
         "Index": 1,
+        "DateReg": "2025-02-01",
+        "Name": "Download",
+        "Location": "Macau",
+        "DetailsC": "Android 版本 4.19 的下載連結！",
+        "DetailsP": "Download link para Versão 4.19 de Android!",
+        "DetailsI": "",
+        "links": "https://drive.google.com/file/d/1e2RH-bvb6Tj7QsBTVONXAvZjzLpkq5-D/view?usp=drive_link"
+    },
+    {
+        "Index": 2,
         "DateReg": "2024-01-10",
-        "Name": "Update-Git",
+        "Name": "Update",
         "Location": "Macau",
         "DetailsC": "4.19版本已推出!請更新!",
         "DetailsP": "Versão 4.19 pronto! Actualize!",
@@ -10,7 +20,7 @@
         "links": "https://apps.apple.com/hk/app/ptt-praestituta/id1601096451?l=en"
     },
     {
-        "Index": 2,
+        "Index": 3,
         "DateReg": "2023-03-05",
         "Name": "CTT",
         "Location": "Macau",
@@ -20,7 +30,7 @@
         "links": "https://www.ctt.gov.mo/MacauPost/Contents/News.aspx?pm=3596"
     },
     {
-        "Index": 3,
+        "Index": 4,
         "DateReg": "2023-03-05",
         "Name": "Facebook Group",
         "Location": "Macau",
