@@ -1,16 +1,6 @@
-[
+[    
     {
         "Index": 1,
-        "DateReg": "2025-02-01",
-        "Name": "Download",
-        "Location": "Macau",
-        "DetailsC": "其他平台的版本4.3的下載連結！",
-        "DetailsP": "Download link para Versão 4.30 doutra plataforma!",
-        "DetailsI": "",
-        "links": "https://drive.google.com/file/d/1e2RH-bvb6Tj7QsBTVONXAvZjzLpkq5-D/view?usp=drive_link"
-    },
-    {
-        "Index": 2,
         "DateReg": "2024-01-10",
         "Name": "Update",
         "Location": "Macau",
@@ -20,7 +10,7 @@
         "links": "https://apps.apple.com/hk/app/ptt-praestituta/id1601096451?l=en"
     },
     {
-        "Index": 3,
+        "Index": 2,
         "DateReg": "2023-03-05",
         "Name": "CTT",
         "Location": "Macau",
@@ -30,7 +20,7 @@
         "links": "https://www.ctt.gov.mo/MacauPost/Contents/News.aspx?pm=3596"
     },
     {
-        "Index": 4,
+        "Index": 3,
         "DateReg": "2023-03-05",
         "Name": "Facebook Group",
         "Location": "Macau",
@@ -38,5 +28,15 @@
         "DetailsP": "Junte-se ao nosso grupo de facebook e diga-nos o que pensa!",
         "DetailsI": "https://www.facebook.com/groups/475346467301823/",
         "links": "https://www.facebook.com/groups/475346467301823/"
+    },
+    {
+        "Index": 4,
+        "DateReg": "2025-02-01",
+        "Name": "Aditional information",
+        "Location": "Macau",
+        "DetailsC": "其他平台的版本4.3的下載連結！",
+        "DetailsP": "Download link para Versão 4.30 doutra plataforma!",
+        "DetailsI": "",
+        "links": "https://drive.google.com/file/d/1e2RH-bvb6Tj7QsBTVONXAvZjzLpkq5-D/view?usp=drive_link"
     }
 ]
