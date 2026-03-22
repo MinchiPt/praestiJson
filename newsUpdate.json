@@ -1,6 +1,15 @@
-[    
-    {
+[   {
         "Index": 1,
+        "DateReg": "2026-03-22",
+        "Name": "Android, Huawei, Windows and Mac Users",
+        "Location": "Macau",
+        "DetailsC": "以為Android、華為、Windows和Mac用戶創建的Praestituta網站!",
+        "DetailsP": "Website de Praestituta criada para utilizadores de Android, Huawei, Windows and Mac Users!",
+        "DetailsI": "Praestituta's website created for Android, Huawei, Windows and Mac Users!",
+        "links": "https://minchi.uk/praesti/"
+    }, 
+    {
+        "Index": 2,
         "DateReg": "2026-02-20",
         "Name": "Update",
         "Location": "Macau",
@@ -10,7 +19,7 @@
         "links": "https://apps.apple.com/hk/app/ptt-praestituta/id1601096451?l=en"
     },
     {
-        "Index": 2,
+        "Index": 3,
         "DateReg": "2023-03-05",
         "Name": "CTT",
         "Location": "Macau",
@@ -20,7 +29,7 @@
         "links": "https://www.ctt.gov.mo/MacauPost/Contents/News.aspx?pm=3596"
     },
     {
-        "Index": 3,
+        "Index": 4,
         "DateReg": "2023-03-05",
         "Name": "Facebook Group",
         "Location": "Macau",
