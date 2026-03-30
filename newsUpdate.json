@@ -1,11 +1,12 @@
 [   {
+        github:
         "Index": 1,
         "DateReg": "2026-03-22",
-        "Name": "Other platforms",
+        "Name": "Android, Huawei, Windows and Mac Users",
         "Location": "Macau",
-        "DetailsC": "以為其他平台用戶創建的Praestituta網站!",
-        "DetailsP": "Website de Praestituta criada para utilizadores doutras plataformas!",
-        "DetailsI": "Praestituta's website created for other platforms!",
+        "DetailsC": "以為Android、華為、Windows和Mac用戶創建的Praestituta網站!",
+        "DetailsP": "Website de Praestituta criada para utilizadores de Android, Huawei, Windows and Mac Users!",
+        "DetailsI": "Praestituta's website created for Android, Huawei, Windows and Mac Users!",
         "links": "https://minchi.uk/praesti/"
     }, 
     {
