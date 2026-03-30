@@ -1,7 +1,6 @@
 [   {
-        github:
         "Index": 1,
-        "DateReg": "2026-03-22",
+        "DateReg": "2026-03-30",
         "Name": "Android, Huawei, Windows and Mac Users",
         "Location": "Macau",
         "DetailsC": "以為Android、華為、Windows和Mac用戶創建的Praestituta網站!",
@@ -11,11 +10,11 @@
     }, 
     {
         "Index": 2,
-        "DateReg": "2026-02-20",
+        "DateReg": "2026-03-30",
         "Name": "Update",
         "Location": "Macau",
-        "DetailsC": "5.11版本已推出!",
-        "DetailsP": "Versão 5.11 pronto!",
+        "DetailsC": "5.12版本已推出!",
+        "DetailsP": "Versão 5.12 pronto!",
         "DetailsI": "",
         "links": "https://apps.apple.com/hk/app/ptt-praestituta/id1601096451?l=en"
     },
