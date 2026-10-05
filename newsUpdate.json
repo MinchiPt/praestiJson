@@ -1,5 +1,15 @@
 [   {
         "Index": 1,
+        "DateReg": "2026-10-04",
+        "Name": "Update",
+        "Location": "Macau",
+        "DetailsC": "5.16版本已推出!",
+        "DetailsP": "Versão 5.16 pronto!",
+        "DetailsI": "",
+        "links": "https://apps.apple.com/hk/app/ptt-praestituta/id1601096451?l=en"
+    },
+    {
+        "Index": 2,
         "DateReg": "2026-03-30",
         "Name": "Android, Huawei, Windows and Mac Users",
         "Location": "Macau",
@@ -8,16 +18,6 @@
         "DetailsI": "Praestituta's website created for Android, Huawei, Windows and Mac Users!",
         "links": "https://minchi.uk/praesti/"
     }, 
-    {
-        "Index": 2,
-        "DateReg": "2026-03-30",
-        "Name": "Update",
-        "Location": "Macau",
-        "DetailsC": "5.12版本已推出!",
-        "DetailsP": "Versão 5.12 pronto!",
-        "DetailsI": "",
-        "links": "https://apps.apple.com/hk/app/ptt-praestituta/id1601096451?l=en"
-    },
     {
         "Index": 3,
         "DateReg": "2023-03-05",
